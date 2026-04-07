@@ -1,0 +1,604 @@
+[
+  {
+    "word": "der Name / -en",
+    "meaning": "이름",
+    "pronunciation": "데어 나므 / 디 나믄",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "der Vorname / -en",
+    "meaning": "(성을 제외한) 이름",
+    "pronunciation": "데어 프호어나므 / 디 프호어나믄",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "der Familienname / -en",
+    "meaning": "성",
+    "pronunciation": "데어 프하밀리은나므 / 디 프하밀리은나믄",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "der Geburtsname / -en",
+    "meaning": "성(출생 때 성, 여자의 결혼 전 성)",
+    "pronunciation": "데어 그부얼츠나므 / 디 그부얼츠나믄",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "heißen",
+    "meaning": "칭하다, 명명하다",
+    "pronunciation": "하이쓴",
+    "example": "Wie heißen Sie?",
+    "example_translation": "성함이 어떻게 되세요?"
+  },
+  {
+    "word": "nennen",
+    "meaning": "이름 짓다, ~라고 부르다",
+    "pronunciation": "넨는",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "das Geschlecht / -er",
+    "meaning": "성별",
+    "pronunciation": "다쓰 그슐레힐 / 디 그슐레히터",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "der Mann / ¨-er",
+    "meaning": "남자; 남편",
+    "pronunciation": "데어 만 / 디 맨너",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "die Frau / -en",
+    "meaning": "여자; 부인",
+    "pronunciation": "디 프호아우 / 디 프호아우은",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "der Herr / -en",
+    "meaning": "~씨; 신사; 주인",
+    "pronunciation": "데어 헤어 / 디 헤어흔",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "die Dame / -n",
+    "meaning": "귀부인, 숙녀",
+    "pronunciation": "디 다므 / 디 다믄",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "das Kind / -er",
+    "meaning": "아이, 자녀",
+    "pronunciation": "다쓰 킨트 / 디 킨더",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "der Junge / -n",
+    "meaning": "남자아이, 소년",
+    "pronunciation": "데어 용으 / 디 용으",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "das Mädchen / -",
+    "meaning": "여자아이, 소녀",
+    "pronunciation": "다쓰 맬히은 / 디 맬히은",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "groß",
+    "meaning": "큰; 성장한",
+    "pronunciation": "그호오쓰",
+    "example": "Meine große Schwester ist groß.",
+    "example_translation": "내 언니는 키가 커요."
+  },
+  {
+    "word": "klein",
+    "meaning": "작은; 어린",
+    "pronunciation": "클라인",
+    "example": "Meine kleine Schwester ist klein.",
+    "example_translation": "내 여동생은 키가 작아요."
+  },
+  {
+    "word": "der Personalausweis / -e",
+    "meaning": "신분증",
+    "pronunciation": "데어 페어조날아우쓰브아이쓰",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "das Geburtsdatum / die Geburtsdaten",
+    "meaning": "출생일, 생년월일",
+    "pronunciation": "다쓰 그부얼츠다툼 / 디 그부얼츠다튼",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "der Geburtstag / -e",
+    "meaning": "생일",
+    "pronunciation": "데어 그부얼츠탁 / 디 그부얼츠타그",
+    "example": "Heute ist mein Geburtstag.",
+    "example_translation": "오늘은 제 생일이에요."
+  },
+  {
+    "word": "der Geburtsort / -e",
+    "meaning": "출생지",
+    "pronunciation": "데어 그부얼츠오얼트 / 디 그부얼츠오어트",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "geboren sein",
+    "meaning": "태어나다",
+    "pronunciation": "그보어흔 자인",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "der Beruf / -e",
+    "meaning": "직업",
+    "pronunciation": "데어 브호우프 / 디 브호우프흐",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "das Land / ¨-er",
+    "meaning": "나라, 국가; 육지, 땅; 시골",
+    "pronunciation": "다쓰 란트 / 디 랜더",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "der Staat / -en",
+    "meaning": "나라, 국가",
+    "pronunciation": "데어 슈탈 / 디 슈타튼",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "das Reich / -e",
+    "meaning": "나라, 국가",
+    "pronunciation": "다쓰 흐아이히 / 디 흐아이히으",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "die Nationalität / -en",
+    "meaning": "국적",
+    "pronunciation": "디 나찌오날리탤 / 디 나찌오날리탤튼",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "die Staatsangehörigkeit / -en",
+    "meaning": "국적",
+    "pronunciation": "디 슈탈츠안그회어히카일 / 디 슈탈츠안그회어히카이튼",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "die doppelte Staatsangehörigkeit",
+    "meaning": "복수 국적",
+    "pronunciation": "디 돞플트 슈탈츠안그회어히카일",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "die Staatsangehörigkeit erwerben",
+    "meaning": "국적을 취득하다",
+    "pronunciation": "디 슈탈츠안그회어히카일 에어브에어븐",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "die Staatsangehörigkeit verlieren",
+    "meaning": "국적을 상실하다",
+    "pronunciation": "디 슈탈츠안그회어히카일 프헤어리어흔",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "die Sprache / -n",
+    "meaning": "언어, 말",
+    "pronunciation": "디 슈프호아흐 / 디 슈프호아흔",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "die Muttersprache / -n",
+    "meaning": "모국어",
+    "pronunciation": "디 뭇터슈프호아흐 / 디 뭇터슈프호아흔",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "die Fremdsprache / -n",
+    "meaning": "외국어",
+    "pronunciation": "디 프횀트슈프호아흐 / 디 프횀트슈프호아흔",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "Koreanisch",
+    "meaning": "한국어",
+    "pronunciation": "코헤아니슈",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "koreanisch",
+    "meaning": "한국어의",
+    "pronunciation": "코헤아니슈",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "Deutsch",
+    "meaning": "독일어",
+    "pronunciation": "도이츄",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "deutsch",
+    "meaning": "독일어의",
+    "pronunciation": "도이츄",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "Englisch",
+    "meaning": "영어",
+    "pronunciation": "엥글리슈",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "englisch",
+    "meaning": "영어의",
+    "pronunciation": "엥글리슈",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "sprechen",
+    "meaning": "말하다",
+    "pronunciation": "슈프호에히은",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "zweisprachig",
+    "meaning": "두 언어를 말하는",
+    "pronunciation": "쯔바이슈프호에히히",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "die Religion / -en",
+    "meaning": "종교",
+    "pronunciation": "디 흐렐리기온 / 디 흐렐리기오는",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "privat",
+    "meaning": "사적인, 개인적인",
+    "pronunciation": "프호이발",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "das Alter / -",
+    "meaning": "나이, 연령",
+    "pronunciation": "다쓰 알터 / 디 알터",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "alt",
+    "meaning": "늙은, 나이든",
+    "pronunciation": "알트",
+    "example": "Wie alt bist du?",
+    "example_translation": "너 나이가 얼마나 되니? (몇 살이니?)"
+  },
+  {
+    "word": "jung",
+    "meaning": "젊은",
+    "pronunciation": "융",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "der Erwachsene / -n",
+    "meaning": "어른, 성인",
+    "pronunciation": "데어 에어브아흐즈느 / 디 에어브아흐즈느",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "die Adresse / -n",
+    "meaning": "주소",
+    "pronunciation": "디 아드흐에쓰 / 디 아드흐에쓴",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "die Straße / -n",
+    "meaning": "도로, 길",
+    "pronunciation": "디 슈트호아쓰 / 디 슈트호아쓴",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "die Postleitzahl / -en",
+    "meaning": "우편번호",
+    "pronunciation": "디 포슬라일짤 / 디 포슬라일짤른",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "der Wohnort / -e",
+    "meaning": "거주지",
+    "pronunciation": "데어 브온오얼트 / 디 브온오어트",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "die Heimat / -en",
+    "meaning": "고향",
+    "pronunciation": "디 하이말 / 디 하이마튼",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "leben",
+    "meaning": "살다; 살아 있다, 생존하다",
+    "pronunciation": "레븐",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "wohnen",
+    "meaning": "거주하다, 살다",
+    "pronunciation": "브오는",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "kommen aus",
+    "meaning": "~에서 오다",
+    "pronunciation": "콤믄 아우쓰",
+    "example": "Ich komme aus Korea.",
+    "example_translation": "전 한국에서 왔어요."
+  },
+  {
+    "word": "die Telefonnummer / -n",
+    "meaning": "전화번호",
+    "pronunciation": "디 텔레프혼눔머 / 디 텔레프혼눔먼",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "(sich) vorstellen",
+    "meaning": "소개하다",
+    "pronunciation": "(지히) 프호어슈텔른",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "die Vorstellung / -en",
+    "meaning": "소개; 면접; 공연",
+    "pronunciation": "디 프호어슈텔룽 / 디 프호어슈텔룽은",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "kennen",
+    "meaning": "알고 있다, 면식이 있다",
+    "pronunciation": "켄는",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "bekannt",
+    "meaning": "알고 있는, 유명한",
+    "pronunciation": "보칸트",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "der Bekannte / -n, die Bekannte / -n",
+    "meaning": "아는 사람",
+    "pronunciation": "데어 보칸트 / 디 보칸튼, 디 보칸트 / 디 보칸튼",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "der Freund / -e, die Freundin / -nen",
+    "meaning": "친구",
+    "pronunciation": "데어 프호오인트 / 디 프호오인드, 디 프호오인딘 / 디 프호오인딘는",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "die Freundschaft / -en",
+    "meaning": "우정",
+    "pronunciation": "디 프호오인트슈아프트 / 디 프호오인트슈아프튼",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "die Freundlichkeit / -en",
+    "meaning": "친절, 호의",
+    "pronunciation": "디 프호오인틀리히카일 / 디 프호오인틀리히카이튼",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "freundlich",
+    "meaning": "우호적인, 상냥한",
+    "pronunciation": "프호오인틀리히",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "der Fremde / -n, die Fremde / -n",
+    "meaning": "낯선 사람",
+    "pronunciation": "데어 프호엠드 / 디 프호엠든, 디 프호엠드 / 디 프호엠든",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "fremd",
+    "meaning": "낯선",
+    "pronunciation": "프호엠트",
+    "example": "= unbekannt",
+    "example_translation": "= 낯선, 모르는"
+  },
+  {
+    "word": "der Nachbar / -n",
+    "meaning": "이웃",
+    "pronunciation": "데어 나흐바 / 디 나흐반",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "begrüßen",
+    "meaning": "인사하다, 환영하다",
+    "pronunciation": "브그흐위쓴",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "grüßen",
+    "meaning": "인사하다, 안부를 전하다",
+    "pronunciation": "그흐위쓴",
+    "example": "Grüß deine Eltern von mir.",
+    "example_translation": "부모님께 안부 전해 드려."
+  },
+  {
+    "word": "die Begrüßung / -en",
+    "meaning": "인사",
+    "pronunciation": "디 브그흐위쑹 / 디 브그흐위쑹은",
+    "example": "= der Gruß / ¨-e",
+    "example_translation": "= 인사 / 데어 그호우쓰 / 디 그호위쓰"
+  },
+  {
+    "word": "begegnen",
+    "meaning": "만나다, 마주치다",
+    "pronunciation": "브게그는",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "treffen",
+    "meaning": "우연히 만나다; 맞히다, 명중하다",
+    "pronunciation": "트흐에픈",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "Hallo!",
+    "meaning": "안녕!",
+    "pronunciation": "할로!",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "Guten Morgen.",
+    "meaning": "좋은 하루입니다. (아침에 만났을 때)",
+    "pronunciation": "구튼 모어근",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "Guten Tag.",
+    "meaning": "좋은 하루입니다. (점심에 만났을 때)",
+    "pronunciation": "구튼 탁",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "Guten Abend.",
+    "meaning": "좋은 하루입니다. (저녁에 만났을 때)",
+    "pronunciation": "구튼 아벤드",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "Abschied nehmen",
+    "meaning": "헤어지다, 작별하다",
+    "pronunciation": "압슈일 네문",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "sich verabschieden",
+    "meaning": "작별을 고하다",
+    "pronunciation": "지히 프헤어압슈이든",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "Gute Nacht.",
+    "meaning": "잘 자.",
+    "pronunciation": "구트 나흐트",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "Tschüss.",
+    "meaning": "잘 가.",
+    "pronunciation": "츄쓰",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "Auf Wiedersehen.",
+    "meaning": "안녕히 계세요. (잘 가, 다음에 뵙겠습니다.)",
+    "pronunciation": "아우프흐 브이더제흔",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "Bis bald!",
+    "meaning": "곧 다시 만나!",
+    "pronunciation": "비쓰 발트!",
+    "example": "= Bis gleich!",
+    "example_translation": "= 곧 다시 만나! (비쓰 글라이히!)"
+  },
+  {
+    "word": "Bis morgen!",
+    "meaning": "내일 만나!",
+    "pronunciation": "비쓰 모어근!",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "Wie geht's?",
+    "meaning": "잘 지내?",
+    "pronunciation": "브이 겔츠?",
+    "example": "",
+    "example_translation": ""
+  },
+  {
+    "word": "Wie geht es Ihnen?",
+    "meaning": "어떻게 지내요?",
+    "pronunciation": "브이 겔 에쓰 이는?",
+    "example": "",
+    "example_translation": ""
+  }
+]
