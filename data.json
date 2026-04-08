@@ -1,0 +1,66 @@
+{
+  "vocabulary": [
+    { "id": 1, "german": "Hallo", "korean": "안녕하세요", "pronunciation": "할로", "example": { "german": "Hallo, wie geht es dir?", "korean": "안녕, 어떻게 지내?" } },
+    { "id": 2, "german": "Danke", "korean": "감사합니다", "pronunciation": "당케", "example": { "german": "Danke schön für deine Hilfe!", "korean": "도와줘서 정말 감사해요!" } },
+    { "id": 3, "german": "Entschuldigung", "korean": "실례합니다 / 죄송합니다", "pronunciation": "엔트슐디궁", "example": { "german": "Entschuldigung, wo ist der Bahnhof?", "korean": "실례합니다, 기차역이 어디 있나요?" } },
+    { "id": 4, "german": "Bitte", "korean": "부탁합니다 / 천만에요", "pronunciation": "비테", "example": { "german": "Ein Kaffee, bitte.", "korean": "커피 한 잔 부탁해요." } },
+    { "id": 5, "german": "Wasser", "korean": "물", "pronunciation": "바서", "example": { "german": "Kann ich bitte ein Glas Wasser haben?", "korean": "물 한 잔 주실 수 있나요?" } },
+    { "id": 6, "german": "Freund", "korean": "친구 (남)", "pronunciation": "프로인트", "example": { "german": "Mein Freund kommt aus Berlin.", "korean": "제 친구는 베를린 출신이에요." } },
+    { "id": 7, "german": "Schön", "korean": "아름다운 / 좋은", "pronunciation": "쉔", "example": { "german": "Das Wetter ist heute sehr schön.", "korean": "오늘 날씨가 정말 좋아요." } },
+    { "id": 8, "german": "Arbeit", "korean": "일 / 직장", "pronunciation": "아르바이트", "example": { "german": "Meine Arbeit macht mir Spaß.", "korean": "제 일이 정말 즐거워요." } },
+    { "id": 9, "german": "Essen", "korean": "음식 / 먹다", "pronunciation": "에쎈", "example": { "german": "Das Essen hier ist sehr lecker.", "korean": "여기 음식이 정말 맛있어요." } },
+    { "id": 10, "german": "Bahnhof", "korean": "기차역", "pronunciation": "반호프", "example": { "german": "Der Bahnhof ist nicht weit von hier.", "korean": "기차역은 여기서 멀지 않아요." } },
+    { "id": 11, "german": "lernen", "korean": "배우다", "pronunciation": "레르넨", "example": { "german": "Ich lerne jeden Tag neue Wörter.", "korean": "나는 매일 새 단어를 배워요." } },
+    { "id": 12, "german": "sprechen", "korean": "말하다", "pronunciation": "슈프레헨", "example": { "german": "Sprechen Sie Englisch?", "korean": "영어를 하실 줄 아세요?" } }
+  ],
+  "conversations": [
+    {
+      "id": 1,
+      "title": "카페에서",
+      "lines": [
+        { "speaker": "직원", "german": "Guten Morgen! Was darf es sein?", "korean": "좋은 아침이에요! 무엇을 드릴까요?", "role": "other" },
+        { "speaker": "나", "german": "Ich hätte gerne einen Kaffee, bitte.", "korean": "커피 한 잔 주세요.", "role": "user" },
+        { "speaker": "직원", "german": "Mit Milch und Zucker?", "korean": "우유와 설탕 넣을까요?", "role": "other" },
+        { "speaker": "나", "german": "Nur Milch, bitte. Kein Zucker.", "korean": "우유만요. 설탕은 없이요.", "role": "user" },
+        { "speaker": "직원", "german": "Das macht drei Euro fünfzig.", "korean": "3유로 50센트입니다.", "role": "other" },
+        { "speaker": "나", "german": "Hier, bitte. Behalten Sie das Restgeld.", "korean": "여기요. 거스름돈은 가지세요.", "role": "user" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "길 묻기",
+      "lines": [
+        { "speaker": "나", "german": "Entschuldigung, wie komme ich zum Bahnhof?", "korean": "실례합니다, 기차역에 어떻게 가나요?", "role": "user" },
+        { "speaker": "행인", "german": "Gehen Sie geradeaus und dann links abbiegen.", "korean": "직진하다가 왼쪽으로 도세요.", "role": "other" },
+        { "speaker": "나", "german": "Ist es weit von hier?", "korean": "여기서 먼가요?", "role": "user" },
+        { "speaker": "행인", "german": "Nein, nur fünf Minuten zu Fuß.", "korean": "아니요, 걸어서 5분밖에 안 돼요.", "role": "other" },
+        { "speaker": "나", "german": "Vielen Dank!", "korean": "정말 감사합니다!", "role": "user" },
+        { "speaker": "행인", "german": "Kein Problem! Guten Weg!", "korean": "천만에요! 잘 가세요!", "role": "other" }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "자기소개",
+      "lines": [
+        { "speaker": "Anna", "german": "Hallo! Ich bin Anna. Wie heißen Sie?", "korean": "안녕하세요! 저는 안나예요. 이름이 어떻게 되세요?", "role": "other" },
+        { "speaker": "나", "german": "Ich heiße Min-jun. Ich komme aus Korea.", "korean": "저는 민준이에요. 한국에서 왔어요.", "role": "user" },
+        { "speaker": "Anna", "german": "Oh, interessant! Was machen Sie in Deutschland?", "korean": "오, 흥미롭네요! 독일에서 무엇을 하세요?", "role": "other" },
+        { "speaker": "나", "german": "Ich studiere hier Informatik.", "korean": "여기서 컴퓨터공학을 공부하고 있어요.", "role": "user" },
+        { "speaker": "Anna", "german": "Wie lange lernen Sie schon Deutsch?", "korean": "독일어를 얼마나 배우셨어요?", "role": "other" },
+        { "speaker": "나", "german": "Erst seit sechs Monaten.", "korean": "고작 6개월 됐어요.", "role": "user" }
+      ]
+    }
+  ],
+  "quizzes": [
+    { "id": 1, "type": "fill", "sentence": "Ich ___ aus Korea.", "answer": "komme", "hint": "힌트: '오다'의 1인칭 현재형", "translation": "저는 한국에서 왔어요." },
+    { "id": 2, "type": "multiple", "question": "\"감사합니다\"를 독일어로?", "options": ["Bitte", "Danke", "Hallo", "Tschüss"], "answer": 1, "translation": "Danke" },
+    { "id": 3, "type": "fill", "sentence": "Das ___ hier ist sehr lecker.", "answer": "Essen", "hint": "힌트: '음식'을 뜻하는 명사", "translation": "여기 음식이 정말 맛있어요." },
+    { "id": 4, "type": "multiple", "question": "\"안녕히 가세요\"를 독일어로?", "options": ["Guten Morgen", "Auf Wiedersehen", "Entschuldigung", "Bitte"], "answer": 1, "translation": "Auf Wiedersehen" },
+    { "id": 5, "type": "fill", "sentence": "Wie ___ du?", "answer": "heißt", "hint": "힌트: '이름이 ~이다'의 2인칭 현재형", "translation": "너는 이름이 뭐야?" },
+    { "id": 6, "type": "multiple", "question": "\"기차역\"을 독일어로?", "options": ["Flughafen", "Supermarkt", "Bahnhof", "Krankenhaus"], "answer": 2, "translation": "Bahnhof" },
+    { "id": 7, "type": "fill", "sentence": "Ich ___ Deutsch seit einem Jahr.", "answer": "lerne", "hint": "힌트: '배우다'의 1인칭 현재형", "translation": "나는 1년 전부터 독일어를 배우고 있어요." },
+    { "id": 8, "type": "multiple", "question": "\"물\"을 독일어로?", "options": ["Milch", "Bier", "Wasser", "Saft"], "answer": 2, "translation": "Wasser" },
+    { "id": 9, "type": "fill", "sentence": "Das Wetter ist heute sehr ___.", "answer": "schön", "hint": "힌트: '좋은, 아름다운'이라는 형용사", "translation": "오늘 날씨가 정말 좋아요." },
+    { "id": 10, "type": "multiple", "question": "\"실례합니다\"를 독일어로?", "options": ["Danke", "Bitte", "Entschuldigung", "Tschüss"], "answer": 2, "translation": "Entschuldigung" }
+  ]
+}
