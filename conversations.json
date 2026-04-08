@@ -1,0 +1,256 @@
+{
+  "conversations": [
+    {
+      "id": "1-1",
+      "title": "나는 한국 사람이야",
+      "lines": [
+        {
+          "speaker": "A",
+          "german": "Hallo! Bist du Chinese?",
+          "pronunciation": "할로! 비스트 / 두 / 키이내제?",
+          "korean": "안녕! ~이다 / 너 / 중국인?"
+        },
+        {
+          "speaker": "B",
+          "german": "Nein, ich bin nicht Chinese.",
+          "pronunciation": "나인, 이히 빈 / 니히트 / 키이내제.",
+          "korean": "아니, 나는 ~이다 / 부정 / 중국인."
+        },
+        {
+          "speaker": "A",
+          "german": "Bist du Japaner?",
+          "pronunciation": "비스트 / 두 / 야파너?",
+          "korean": "~이다 / 너 / 일본인?"
+        },
+        {
+          "speaker": "B",
+          "german": "Nein, ich bin nicht Japaner.",
+          "pronunciation": "나인, 이히 빈 / 니히트 / 야파너.",
+          "korean": "아니, 나는 ~이다 / 부정 / 일본인."
+        },
+        {
+          "speaker": "A",
+          "german": "Bist du Koreaner?",
+          "pronunciation": "비스트 / 두 / 코레아너?",
+          "korean": "~이다 / 너 / 한국인?"
+        },
+        {
+          "speaker": "B",
+          "german": "Ja, ich bin Koreaner.",
+          "pronunciation": "야, 이히 빈 / 코레아너.",
+          "korean": "응, 나는 ~이다 / 한국인."
+        }
+      ]
+    },
+    {
+      "id": "1-2",
+      "title": "나는 학생이야",
+      "lines": [
+        {
+          "speaker": "A",
+          "german": "Sind Sie ein Schüler?",
+          "pronunciation": "진트 / 지 / 아인 쉴러?",
+          "korean": "~입니다 / 당신 / 한 명의 학생?"
+        },
+        {
+          "speaker": "B",
+          "german": "Ja, ich bin ein Schüler.",
+          "pronunciation": "야, 이히 빈 / 아인 쉴러.",
+          "korean": "네, 저는 ~입니다 / 한 명의 학생."
+        },
+        {
+          "speaker": "A",
+          "german": "Sind Sie ein guter Schüler?",
+          "pronunciation": "진트 / 지 / 아인 구터 쉴러?",
+          "korean": "~입니다 / 당신 / 한 명의 좋은 학생?"
+        },
+        {
+          "speaker": "B",
+          "german": "Ja, ich bin ein guter Schüler.",
+          "pronunciation": "야, 이히 빈 / 아인 구터 쉴러.",
+          "korean": "네, 저는 ~입니다 / 한 명의 좋은 학생."
+        },
+        {
+          "speaker": "A",
+          "german": "Lernen Sie viel?",
+          "pronunciation": "올래어낸 / 지 / 피f일?",
+          "korean": "공부하다 / 당신 / 많이?"
+        },
+        {
+          "speaker": "B",
+          "german": "Ja, ich lerne viel.",
+          "pronunciation": "야, 이히 / 올래어낸 / 피f일.",
+          "korean": "네, 저 / 공부하다 / 많이."
+        }
+      ]
+    },
+    {
+      "id": "1-4",
+      "title": "그녀는 내 거야",
+      "lines": [
+        {
+          "speaker": "A",
+          "german": "Wie ist dein koreanischer Kurs?",
+          "pronunciation": "비v / 이스트 / 다인 / 코레아니셔 / 쿠어스?",
+          "korean": "어떻게 / ~이다 / 너의 / 한국어 / 수업?"
+        },
+        {
+          "speaker": "B",
+          "german": "Mein Kurs ist lustig. Die Lehrerin ist sehr kompetent.",
+          "pronunciation": "마인 / 쿠어스 / 이스트 / 올루스티히. 디 올래어레린 / 이스트 / 제어 콤페텐트.",
+          "korean": "나의 / 수업 / ~이다 / 재미있는. 그 선생님(여성)은 ~이다 / 매우 능력 있는."
+        },
+        {
+          "speaker": "A",
+          "german": "Aber Koreanisch ist sehr schwierig.",
+          "pronunciation": "아버 / 코레아니쉬 이스트 / 제어 슈비v리히.",
+          "korean": "하지만 / 한국어는 ~이다 / 매우 어려운."
+        },
+        {
+          "speaker": "A",
+          "german": "Ist die Koreanischlehrerin hübsch?",
+          "pronunciation": "이스트 / 디 코레아니셔래어린 / 휩쉬?",
+          "korean": "~이다 / 그 한국어 선생님(여성)은 / 예쁜?"
+        },
+        {
+          "speaker": "B",
+          "german": "Ja, sie ist sehr hübsch.",
+          "pronunciation": "야, 지 이스트 / 제어 휩쉬.",
+          "korean": "응, 그녀는 ~이다 / 매우 예쁜."
+        },
+        {
+          "speaker": "A",
+          "german": "Wie hübsch?",
+          "pronunciation": "비v / 휩쉬?",
+          "korean": "얼마나 / 예쁜?"
+        },
+        {
+          "speaker": "B",
+          "german": "Sie ist so hübsch wie ein Model.",
+          "pronunciation": "지 이스트 / 소 / 휩쉬 / 비v / 아인 모델.",
+          "korean": "그녀는 ~이다 / 그렇게 / 예쁜 / ~와 같이 / 한 명의 모델."
+        },
+        {
+          "speaker": "A",
+          "german": "Kannst du sie mir vorstellen?",
+          "pronunciation": "칸스트 / 두 / 지 / 미어 / 포어슈텔랜?",
+          "korean": "할 수 있다 / 너 / 그녀를 / 나에게 / 소개하다?"
+        },
+        {
+          "speaker": "B",
+          "german": "Nein, sie gehört mir.",
+          "pronunciation": "나인, 지 / 게회어트 / 미어.",
+          "korean": "아니, 그녀 / 속하다 / 나에게."
+        },
+        {
+          "speaker": "A",
+          "german": "Okay, viel Glück.",
+          "pronunciation": "오케이, 피f일 글뤽.",
+          "korean": "알겠어, 많은 운."
+        }
+      ]
+    },
+    {
+      "id": "1-5",
+      "title": "그들은 최고야",
+      "lines": [
+        {
+          "speaker": "A",
+          "german": "Wie geht es deiner Familie?",
+          "pronunciation": "비v / 게에트 / 에스 / 다이너 파밀리에?",
+          "korean": "어떻게 / 간다 / 그것 / 너의 가족에게?"
+        },
+        {
+          "speaker": "B",
+          "german": "Meine Familie ist sehr lustig.",
+          "pronunciation": "마이네 파밀리에 / 이스트 / 제어 올루스티히.",
+          "korean": "나의 가족은 ~이다 / 매우 재미있는."
+        },
+        {
+          "speaker": "B",
+          "german": "Meine Eltern sind sehr freundlich und meine Schwester ist sehr hübsch.",
+          "pronunciation": "마이네 엘턴 / 진트 / 제어 f로인틀리히 / 운트 / 마이네 슈베스터 / 이스트 / 제어 휩쉬.",
+          "korean": "나의 부모님은 ~이다 / 매우 친절한 / 그리고 / 나의 여형제는 ~이다 / 매우 예쁜."
+        },
+        {
+          "speaker": "B",
+          "german": "Sie sind wunderbar.",
+          "pronunciation": "지 / 진트 / 분더바.",
+          "korean": "그들 / ~이다 / 훌륭한."
+        },
+        {
+          "speaker": "A",
+          "german": "Und wie geht es deiner Familie?",
+          "pronunciation": "운트 / 비v / 게에트 / 에스 / 다이너 파밀리에?",
+          "korean": "그리고 / 어떻게 / 간다 / 그것 / 너의 가족에게?"
+        },
+        {
+          "speaker": "B",
+          "german": "Meine Familie ist auch sehr lustig.",
+          "pronunciation": "마이네 파밀리에 / 이스트 / 아우흐 / 제어 올루스티히.",
+          "korean": "나의 가족은 ~이다 / 역시 / 매우 재미있는."
+        }
+      ]
+    },
+    {
+      "id": "1-6",
+      "title": "행복하세요?",
+      "lines": [
+        {
+          "speaker": "A",
+          "german": "Meine Eltern sind sehr großzügig und mein Bruder ist sehr lustig.",
+          "pronunciation": "마이네 엘턴 / 진트 / 제어 그로오쓰뷔히히 / 운트 / 마인 브루더 / 이스트 / 제어 올루스티히.",
+          "korean": "나의 부모님은 ~이다 / 매우 너그러운 / 그리고 / 나의 남자 형제는 ~이다 / 매우 웃긴."
+        },
+        {
+          "speaker": "A",
+          "german": "Ich liebe meine Familie.",
+          "pronunciation": "이히 / 올리베 / 마이네 파밀리에.",
+          "korean": "난 내 가족을 사랑해."
+        },
+        {
+          "speaker": "A",
+          "german": "Sind Sie verheiratet?",
+          "pronunciation": "진트 / 지 / 페어하이라이텣?",
+          "korean": "~입니다 / 당신 / 결혼한?"
+        },
+        {
+          "speaker": "B",
+          "german": "Nein, ich bin nicht verheiratet.",
+          "pronunciation": "나인, 이히 빈 / 니히트 / 페어하이라이텣.",
+          "korean": "아뇨, 저는 ~입니다 / 부정 / 결혼한."
+        },
+        {
+          "speaker": "B",
+          "german": "Und sind Sie verheiratet?",
+          "pronunciation": "운트 / 진트 / 지 / 페어하이라이텣?",
+          "korean": "그리고 / ~입니까 / 당신 / 결혼한?"
+        },
+        {
+          "speaker": "A",
+          "german": "ja, für 5 Jahre.",
+          "pronunciation": "야, f휘어 / f휜f프 야아레.",
+          "korean": "네, ~위해 / 5년."
+        },
+        {
+          "speaker": "A",
+          "german": "Morgen ist unser Hochzeitstag.",
+          "pronunciation": "모어겐 / 이스트 / 운저 / 호흐짜이츠탁.",
+          "korean": "내일 / ~입니다 / 우리의 / 결혼기념일."
+        },
+        {
+          "speaker": "B",
+          "german": "Ich freue mich für Sie. Sind Sie glücklich?",
+          "pronunciation": "이히 f로이에 / 미히 / f휘어 / 지. 진트 / 지 / 글뤽클리히?",
+          "korean": "저는 기쁩니다 / 나를 / ~위해 / 당신을. ~입니까 / 당신 / 행복한?"
+        },
+        {
+          "speaker": "A",
+          "german": "Ja, ich bin glücklich.",
+          "pronunciation": "야, 이히 빈 / 글뤽클리히.",
+          "korean": "네, 저는 ~입니다 / 행복한."
+        }
+      ]
+    }
+  ]
+}
