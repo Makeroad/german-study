@@ -581,7 +581,7 @@ function switchVocabTab(name) {
    VOCABULARY
 ============================================================ */
 function initVocab() {
-  vCards   = [...DATA.vocabulary];
+  vCards   = [...(DATA.vocabulary || [])];
   vIdx     = 0;
   vFlipped = false;
   renderVocabCard();
@@ -720,11 +720,12 @@ function clearWrongNotes() {
 ============================================================ */
 function initConv() {
   const row = document.getElementById('topic-row');
-  row.innerHTML = DATA.conversations.map((c, i) =>
+  const convs = DATA.conversations || [];
+  row.innerHTML = convs.map((c, i) =>
     `<div class="topic-chip ${i === 0 ? 'active' : ''}" onclick="selectTopic(${i})">${c.title}</div>`
   ).join('');
   cTopicIdx = 0; cLineIdx = 0; cRevealed = false;
-  renderConv();
+  if (convs.length) renderConv();
 }
 
 function selectTopic(i) {
@@ -830,7 +831,7 @@ document.getElementById('conv-input').addEventListener('keydown', e => {
    QUIZ
 ============================================================ */
 function initQuiz() {
-  qItems    = shuffle([...DATA.quizzes]);
+  qItems    = shuffle([...(DATA.quizzes || [])]);
   qIdx      = 0;
   qScore    = 0;
   qAnswered = false;
