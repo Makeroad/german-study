@@ -130,7 +130,9 @@
       box-shadow: var(--sh2); padding: 26px 22px;
       display: flex; flex-direction: column; align-items: center; justify-content: center;
     }
-    .card-back { transform: rotateY(180deg); align-items: flex-start; justify-content: flex-start; }
+    .card-back { transform: rotateY(180deg); align-items: flex-start; justify-content: flex-start; pointer-events: none; }
+    .card.flipped .card-back { pointer-events: auto; }
+    .card.flipped .card-face:not(.card-back) { pointer-events: none; }
     .card-tap-hint { font-size: .72rem; color: var(--muted); margin-bottom: 10px; }
     .card-back .card-tap-hint { align-self: flex-end; }
     .cf-word { font-size: 2.4rem; font-weight: 800; color: var(--primary); text-align: center; line-height: 1.15; }
@@ -522,6 +524,7 @@ async function init() {
   initVocab();
   initConv();
   initQuiz();
+  initFlipTouch();
 }
 
 async function loadData() {
@@ -624,6 +627,16 @@ function renderVocabCard() {
 function flipCard() {
   document.getElementById('flashcard').classList.toggle('flipped');
   vFlipped = !vFlipped;
+}
+
+function initFlipTouch() {
+  let moved = false;
+  const fc = document.getElementById('flashcard');
+  fc.addEventListener('touchstart', () => { moved = false; }, { passive: true });
+  fc.addEventListener('touchmove',  () => { moved = true;  }, { passive: true });
+  fc.addEventListener('touchend', e => {
+    if (!moved) { e.preventDefault(); flipCard(); }
+  });
 }
 
 function judgeCard(know) {
