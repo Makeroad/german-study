@@ -130,9 +130,7 @@
       box-shadow: var(--sh2); padding: 26px 22px;
       display: flex; flex-direction: column; align-items: center; justify-content: center;
     }
-    .card-back { transform: rotateY(180deg); align-items: flex-start; justify-content: flex-start; pointer-events: none; }
-    .card.flipped .card-back { pointer-events: auto; }
-    .card.flipped .card-face:not(.card-back) { pointer-events: none; }
+    .card-back { transform: rotateY(180deg); align-items: flex-start; justify-content: flex-start; }
     .card-tap-hint { font-size: .72rem; color: var(--muted); margin-bottom: 10px; }
     .card-back .card-tap-hint { align-self: flex-end; }
     .cf-word { font-size: 2.4rem; font-weight: 800; color: var(--primary); text-align: center; line-height: 1.15; }
@@ -342,7 +340,7 @@
     <div class="card-stage" id="card-stage">
       <div class="card-overlay ov-know"     id="ov-know">✓ 알아요!</div>
       <div class="card-overlay ov-dontknow" id="ov-dont">✗ 몰라요</div>
-      <div class="card" id="flashcard" onclick="flipCard()">
+      <div class="card" id="flashcard">
         <div class="card-face">
           <div class="card-tap-hint">탭하여 뒤집기</div>
           <div class="cf-word" id="cf-word"></div>
@@ -358,6 +356,7 @@
           </div>
         </div>
       </div>
+      <div id="card-tap-overlay" style="position:absolute;inset:0;z-index:5;cursor:pointer;touch-action:manipulation;"></div>
     </div>
 
     <div class="swipe-btns" id="swipe-btns">
@@ -631,16 +630,17 @@ function flipCard() {
 
 function initFlipTouch() {
   let startX, startY;
-  const fc = document.getElementById('flashcard');
-  fc.addEventListener('touchstart', e => {
+  const overlay = document.getElementById('card-tap-overlay');
+  overlay.addEventListener('touchstart', e => {
     startX = e.touches[0].clientX;
     startY = e.touches[0].clientY;
   }, { passive: true });
-  fc.addEventListener('touchend', e => {
+  overlay.addEventListener('touchend', e => {
     const dx = Math.abs(e.changedTouches[0].clientX - startX);
     const dy = Math.abs(e.changedTouches[0].clientY - startY);
     if (dx < 10 && dy < 10) { e.preventDefault(); flipCard(); }
   });
+  overlay.addEventListener('click', flipCard);
 }
 
 function judgeCard(know) {
