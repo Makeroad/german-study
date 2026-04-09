@@ -1,8 +1,8 @@
 /* ============================================================
    CONFIGURATION
 ============================================================ */
-const VOCAB_URL   = 'https://raw.githubusercontent.com/Makeroad/german-study/main/word.json';
-const CONV_URL    = 'https://raw.githubusercontent.com/Makeroad/german-study/main/conversations.json';
+const VOCAB_URL   = './word.json';
+const CONV_URL    = './conversations.json';
 const LS_VOCAB    = 'de_vocab_data';
 const LS_VOCAB_TS = 'de_vocab_ts';
 const LS_CONV     = 'de_conv_data';
