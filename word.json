@@ -399,6 +399,606 @@
     "pronunciation": "브이 겔츠?",
     "example": "Wie geht's dir heute?",
     "example_translation": "오늘 어떻게 지내니?"
+  },
+  {
+    "day": 2,
+    "word": "der Dank / kein Pl.",
+    "meaning": "감사",
+    "pronunciation": "데어 당크",
+    "example": "Vielen Dank.",
+    "example_translation": "고맙습니다."
+  },
+  {
+    "day": 2,
+    "word": "danken",
+    "meaning": "감사하다",
+    "pronunciation": "당큰",
+    "example": "Ich danke dir für das Geschenk.",
+    "example_translation": "선물 고마워."
+  },
+  {
+    "day": 2,
+    "word": "viel",
+    "meaning": "많이",
+    "pronunciation": "프힐",
+    "example": "Vielen Dank für deine Hilfe.",
+    "example_translation": "도와줘서 정말 고마워."
+  },
+  {
+    "day": 2,
+    "word": "sehr",
+    "meaning": "대단히",
+    "pronunciation": "제어",
+    "example": "Danke sehr.",
+    "example_translation": "대단히 감사합니다."
+  },
+  {
+    "day": 2,
+    "word": "herzlich",
+    "meaning": "진심의, 대단히, 몹시",
+    "pronunciation": "헤어쯜리히",
+    "example": "Herzlichen Dank für alles.",
+    "example_translation": "모든 것에 진심으로 감사드립니다."
+  },
+  {
+    "day": 2,
+    "word": "die Bitte / -n",
+    "meaning": "부탁, 요청",
+    "pronunciation": "디 비트 / 디 비튼",
+    "example": "Ich habe eine kleine Bitte.",
+    "example_translation": "작은 부탁이 하나 있어요."
+  },
+  {
+    "day": 2,
+    "word": "bitten",
+    "meaning": "부탁하다, 청하다",
+    "pronunciation": "비튼",
+    "example": "Darf ich dich um Hilfe bitten?",
+    "example_translation": "도움을 좀 부탁해도 될까?"
+  },
+  {
+    "day": 2,
+    "word": "beten",
+    "meaning": "기도하다",
+    "pronunciation": "베튼",
+    "example": "Ich bete für deine Gesundheit.",
+    "example_translation": "당신의 건강을 위해 기도합니다."
+  },
+  {
+    "day": 2,
+    "word": "die Hoffnung / -en",
+    "meaning": "희망, 기대",
+    "pronunciation": "디 호프눙 / 디 호프눙은",
+    "example": "Wir haben noch Hoffnung.",
+    "example_translation": "우리는 여전히 희망을 가지고 있습니다."
+  },
+  {
+    "day": 2,
+    "word": "hoffen",
+    "meaning": "바라다, 기대하다, 희망하다",
+    "pronunciation": "호프흔",
+    "example": "Ich hoffe, dass du kommst.",
+    "example_translation": "네가 오기를 바라."
+  },
+  {
+    "day": 2,
+    "word": "der Wunsch / ¨-e",
+    "meaning": "소원, 소망",
+    "pronunciation": "데어 브운슈 / 디 브윈슈",
+    "example": "Haben Sie einen Wunsch?",
+    "example_translation": "원하시는 것이 있나요?"
+  },
+  {
+    "day": 2,
+    "word": "wünschen",
+    "meaning": "원하다, 바라다, 기원하다",
+    "pronunciation": "브원슌",
+    "example": "Ich wünsche dir alles Gute.",
+    "example_translation": "너에게 좋은 일만 있기를 바랄게."
+  },
+  {
+    "day": 2,
+    "word": "der Glückwunsch / ¨-e",
+    "meaning": "축하, 축사",
+    "pronunciation": "데어 글뤽브운슈 / 디 글뤽브윈슈",
+    "example": "Herzlichen Glückwunsch.",
+    "example_translation": "축하합니다."
+  },
+  {
+    "day": 2,
+    "word": "das Glück / -e",
+    "meaning": "행운, 기쁨, 행복함",
+    "pronunciation": "다쓰 글뤽 / 디 글뤽크",
+    "example": "Viel Glück!",
+    "example_translation": "행운을 빌어!"
+  },
+  {
+    "day": 2,
+    "word": "das Unglück / -e",
+    "meaning": "사고, 재난, 불운, 불행",
+    "pronunciation": "다쓰 운글뤽 / 디 운글뤽크",
+    "example": "Das war ein großes Unglück.",
+    "example_translation": "그것은 큰 불행이었습니다."
+  },
+  {
+    "day": 2,
+    "word": "glücklich",
+    "meaning": "행복한",
+    "pronunciation": "글뤽클리히",
+    "example": "Ich bin sehr glücklich mit dir.",
+    "example_translation": "너와 함께 있어서 정말 행복해."
+  },
+  {
+    "day": 2,
+    "word": "die Gratulation / -en",
+    "meaning": "축하, 축사",
+    "pronunciation": "디 그흐아툴라찌온 / 디 그흐아툴라찌오는",
+    "example": "Gratulation zum neuen Job!",
+    "example_translation": "새 직장 얻은 거 축하해!"
+  },
+  {
+    "day": 2,
+    "word": "gratulieren",
+    "meaning": "축하하다",
+    "pronunciation": "그흐아툴리어흔",
+    "example": "Ich gratuliere dir herzlich.",
+    "example_translation": "진심으로 축하해."
+  },
+  {
+    "day": 2,
+    "word": "die Ermutigung / -en",
+    "meaning": "격려",
+    "pronunciation": "디 에어무티궁 / 디 에어무티궁은",
+    "example": "Vielen Dank für deine Ermutigung.",
+    "example_translation": "격려해 줘서 정말 고마워."
+  },
+  {
+    "day": 2,
+    "word": "ermutigen",
+    "meaning": "격려하다, 응원하다",
+    "pronunciation": "에어무티근",
+    "example": "Meine Freunde ermutigen mich immer.",
+    "example_translation": "내 친구들은 항상 나를 격려해 줘."
+  },
+  {
+    "day": 2,
+    "word": "der Mut / kein Pl.",
+    "meaning": "용기",
+    "pronunciation": "데어 무트",
+    "example": "Hab Mut zur Veränderung!",
+    "example_translation": "변화할 용기를 가져!"
+  },
+  {
+    "day": 2,
+    "word": "mutig",
+    "meaning": "용기 있는, 용감한",
+    "pronunciation": "무티히",
+    "example": "Du bist sehr mutig.",
+    "example_translation": "넌 정말 용감하구나."
+  },
+  {
+    "day": 2,
+    "word": "das Lob / -e",
+    "meaning": "칭찬, 찬사",
+    "pronunciation": "다쓰 롭 / 디 로브",
+    "example": "Er hat viel Lob verdient.",
+    "example_translation": "그는 많은 칭찬을 받을 자격이 있어."
+  },
+  {
+    "day": 2,
+    "word": "loben",
+    "meaning": "칭찬하다",
+    "pronunciation": "로븐",
+    "example": "Die Mutter lobt ihr Kind.",
+    "example_translation": "어머니가 아이를 칭찬합니다."
+  },
+  {
+    "day": 2,
+    "word": "die Gelegenheit / -en",
+    "meaning": "기회",
+    "pronunciation": "디 글레근하이틀 / 디 글레근하이튼",
+    "example": "Das ist eine gute Gelegenheit.",
+    "example_translation": "이것은 좋은 기회입니다."
+  },
+  {
+    "day": 2,
+    "word": "das Ziel / -e",
+    "meaning": "목표, 목적, 목적지",
+    "pronunciation": "다쓰 찔 / 디 찔르",
+    "example": "Was ist dein Ziel im Leben?",
+    "example_translation": "인생의 목표가 뭐야?"
+  },
+  {
+    "day": 2,
+    "word": "der Erfolg / -e",
+    "meaning": "성공, 성과",
+    "pronunciation": "데어 에어프홀크 / 디 에어프홀그",
+    "example": "Viel Erfolg.",
+    "example_translation": "성공을 빕니다."
+  },
+  {
+    "day": 2,
+    "word": "erfolgreich",
+    "meaning": "성공한",
+    "pronunciation": "에어프홀크흐아이히",
+    "example": "Das Projekt war sehr erfolgreich.",
+    "example_translation": "그 프로젝트는 매우 성공적이었습니다."
+  },
+  {
+    "day": 2,
+    "word": "der Misserfolg / -e",
+    "meaning": "실패",
+    "pronunciation": "데어 미쓰에어프홀크 / 디 미쓰에어프홀그",
+    "example": "Lass dich nicht durch einen Misserfolg entmutigen.",
+    "example_translation": "실패 때문에 낙담하지 마세요."
+  },
+  {
+    "day": 2,
+    "word": "schade",
+    "meaning": "유감스러운, 섭섭한",
+    "pronunciation": "슈아드",
+    "example": "Wie schade!",
+    "example_translation": "정말 아쉽네요!"
+  },
+  {
+    "day": 2,
+    "word": "bedauerlich",
+    "meaning": "유감스러운, 근심스러운",
+    "pronunciation": "브다우얼리히",
+    "example": "Das ist ein bedauerlicher Fehler.",
+    "example_translation": "그것은 유감스러운 실수입니다."
+  },
+  {
+    "day": 2,
+    "word": "leider",
+    "meaning": "유감스럽게도, 슬프게도",
+    "pronunciation": "라이더",
+    "example": "Leider habe ich heute keine Zeit.",
+    "example_translation": "아쉽게도 오늘은 시간이 없어요."
+  },
+  {
+    "day": 2,
+    "word": "verderben",
+    "meaning": "망치다, 못 쓰게 하다",
+    "pronunciation": "프헤어데어븐",
+    "example": "Das schlechte Wetter hat den Ausflug verdorben.",
+    "example_translation": "악천후가 소풍을 망쳐버렸어."
+  },
+  {
+    "day": 2,
+    "word": "vermasseln",
+    "meaning": "그르치다, 실패하다, 망치다",
+    "pronunciation": "프헤어마쓸른",
+    "example": "Ich habe die Prüfung vermasselt.",
+    "example_translation": "시험을 망쳐버렸어."
+  },
+  {
+    "day": 2,
+    "word": "die Absicht / -en",
+    "meaning": "의도, 계획",
+    "pronunciation": "디 압지히트 / 디 압지히튼",
+    "example": "Das war nicht meine Absicht.",
+    "example_translation": "그것은 제 의도가 아니었습니다."
+  },
+  {
+    "day": 2,
+    "word": "absichtlich",
+    "meaning": "고의의, 일부러",
+    "pronunciation": "압지히틀리히",
+    "example": "Er hat das absichtlich gemacht.",
+    "example_translation": "그는 그것을 일부러 했습니다."
+  },
+  {
+    "day": 2,
+    "word": "hindern",
+    "meaning": "방해하다, 훼방 놓다",
+    "pronunciation": "힌던",
+    "example": "Niemand kann mich daran hindern.",
+    "example_translation": "아무도 나를 막을 수 없어."
+  },
+  {
+    "day": 2,
+    "word": "stören",
+    "meaning": "괴롭히다, 방해하다",
+    "pronunciation": "슈퇴어흔",
+    "example": "Bitte stören Sie mich nicht beim Lernen.",
+    "example_translation": "공부할 때 방해하지 말아주세요."
+  },
+  {
+    "day": 2,
+    "word": "die Hilfe / -n",
+    "meaning": "도움, 구조",
+    "pronunciation": "디 힐프흐 / 디 힐프흔",
+    "example": "Brauchst du Hilfe?",
+    "example_translation": "도움이 필요해?"
+  },
+  {
+    "day": 2,
+    "word": "helfen",
+    "meaning": "돕다, 구하다",
+    "pronunciation": "헬프흔",
+    "example": "Kann ich Ihnen helfen?",
+    "example_translation": "도와드릴까요?"
+  },
+  {
+    "day": 2,
+    "word": "die Unterstützung / -en",
+    "meaning": "원조, 구조, 후원, 지원금",
+    "pronunciation": "디 운터슈튈쯩 / 디 운터슈튈쯩은",
+    "example": "Vielen Dank für Ihre Unterstützung.",
+    "example_translation": "지원해주셔서 감사합니다."
+  },
+  {
+    "day": 2,
+    "word": "unterstützen",
+    "meaning": "후원하다, 지원하다, 도와주다",
+    "pronunciation": "운터슈튈뜬",
+    "example": "Ich unterstütze diese Idee.",
+    "example_translation": "나는 이 아이디어를 지지해."
+  },
+  {
+    "day": 2,
+    "word": "leihen",
+    "meaning": "빌려주다, 빌리다",
+    "pronunciation": "라이흔",
+    "example": "Kannst du mir einen Stift leihen?",
+    "example_translation": "펜 좀 빌려줄 수 있니?"
+  },
+  {
+    "day": 2,
+    "word": "großzügig",
+    "meaning": "관대한, 너그러운",
+    "pronunciation": "그호오쓰쮜기히",
+    "example": "Mein Onkel ist sehr großzügig.",
+    "example_translation": "삼촌은 매우 너그러운 분이셔."
+  },
+  {
+    "day": 2,
+    "word": "das Denken / kein Pl.",
+    "meaning": "생각",
+    "pronunciation": "다쓰 뎅큰",
+    "example": "Positives Denken ist wichtig.",
+    "example_translation": "긍정적인 사고가 중요합니다."
+  },
+  {
+    "day": 2,
+    "word": "der Gedanke / -n",
+    "meaning": "생각, 사고",
+    "pronunciation": "데어 그당크 / 디 그당큰",
+    "example": "Das ist ein interessanter Gedanke.",
+    "example_translation": "그것 참 흥미로운 생각이네요."
+  },
+  {
+    "day": 2,
+    "word": "denken",
+    "meaning": "생각하다, 예상하다",
+    "pronunciation": "뎅큰",
+    "example": "Ich denke an dich.",
+    "example_translation": "네 생각을 하고 있어."
+  },
+  {
+    "day": 2,
+    "word": "nachdenklich",
+    "meaning": "사려깊은, 신중한",
+    "pronunciation": "나흐뎅클리히",
+    "example": "Warum bist du so nachdenklich?",
+    "example_translation": "왜 그렇게 깊은 생각에 잠겨 있니?"
+  },
+  {
+    "day": 2,
+    "word": "wichtig",
+    "meaning": "중요한",
+    "pronunciation": "브이히티히",
+    "example": "Das ist ein wichtiges Thema.",
+    "example_translation": "그것은 중요한 주제입니다."
+  },
+  {
+    "day": 2,
+    "word": "der Ernst / kein Pl.",
+    "meaning": "진지함, 신중함, 진심",
+    "pronunciation": "데어 에언스트",
+    "example": "Das ist mein voller Ernst.",
+    "example_translation": "정말 진담이야."
+  },
+  {
+    "day": 2,
+    "word": "ernst",
+    "meaning": "진지한, 중대한, 심각한",
+    "pronunciation": "에언스트",
+    "example": "Meinst du das ernst?",
+    "example_translation": "진심으로 하는 소리야?"
+  },
+  {
+    "day": 2,
+    "word": "bedächtig",
+    "meaning": "조심성 있는, 신중한",
+    "pronunciation": "브대히티히",
+    "example": "Er antwortete sehr bedächtig.",
+    "example_translation": "그는 매우 신중하게 대답했습니다."
+  },
+  {
+    "day": 2,
+    "word": "die Fürsorge / -n",
+    "meaning": "배려, 보호",
+    "pronunciation": "디 프훠어조어그 / 디 프훠어조어근",
+    "example": "Sie braucht viel Fürsorge.",
+    "example_translation": "그녀는 많은 보살핌이 필요합니다."
+  },
+  {
+    "day": 2,
+    "word": "die Rücksicht / -en",
+    "meaning": "배려, 고려",
+    "pronunciation": "디 흐윅지히트 / 디 흐윅지히튼",
+    "example": "Wir müssen Rücksicht auf andere nehmen.",
+    "example_translation": "우리는 다른 사람들을 배려해야 합니다."
+  },
+  {
+    "day": 2,
+    "word": "die Freundlichkeit / -en",
+    "meaning": "친절, 호의",
+    "pronunciation": "디 프호오인틀리히카일 / 디 프호오인틀리히카이튼",
+    "example": "Vielen Dank für Ihre Freundlichkeit.",
+    "example_translation": "당신의 친절에 대단히 감사합니다."
+  },
+  {
+    "day": 2,
+    "word": "sich versprechen",
+    "meaning": "실언하다",
+    "pronunciation": "지히 프헤어슈프호에히은",
+    "example": "Entschuldigung, ich habe mich versprochen.",
+    "example_translation": "죄송합니다, 말실수를 했네요."
+  },
+  {
+    "day": 2,
+    "word": "der Irrtum / ¨-er",
+    "meaning": "착각",
+    "pronunciation": "데어 이어툼 / 디 이어튀머",
+    "example": "Das ist ein Irrtum.",
+    "example_translation": "그것은 착각입니다."
+  },
+  {
+    "day": 2,
+    "word": "sich irren",
+    "meaning": "잘못 생각하다, 판단을 잘못하다",
+    "pronunciation": "지히 이어흔",
+    "example": "Ich glaube, du irrst dich.",
+    "example_translation": "내 생각에 네가 착각하는 것 같아."
+  },
+  {
+    "day": 2,
+    "word": "missverstehen",
+    "meaning": "착각하다, 오해하다",
+    "pronunciation": "미쓰프헤어슈테흔",
+    "example": "Bitte missverstehen Sie mich nicht.",
+    "example_translation": "제 말을 오해하지 마세요."
+  },
+  {
+    "day": 2,
+    "word": "die Wiederholung / -en",
+    "meaning": "되풀이, 반복",
+    "pronunciation": "디 브이더홀룽 / 디 브이더홀룽은",
+    "example": "Wiederholung ist der Schlüssel zum Erfolg.",
+    "example_translation": "반복은 성공의 열쇠입니다."
+  },
+  {
+    "day": 2,
+    "word": "wiederholen",
+    "meaning": "되풀이하다, 반복하다",
+    "pronunciation": "브이더홀른",
+    "example": "Können Sie das bitte wiederholen?",
+    "example_translation": "다시 한 번 말씀해 주시겠어요?"
+  },
+  {
+    "day": 2,
+    "word": "die Schuld / -en",
+    "meaning": "죄, 실수, 책임",
+    "pronunciation": "디 슐트 / 디 슐든",
+    "example": "Es ist nicht meine Schuld.",
+    "example_translation": "그건 내 잘못이 아니야."
+  },
+  {
+    "day": 2,
+    "word": "schuldig",
+    "meaning": "죄가 있는",
+    "pronunciation": "슐디히",
+    "example": "Er fühlt sich schuldig.",
+    "example_translation": "그는 죄책감을 느낍니다."
+  },
+  {
+    "day": 2,
+    "word": "unschuldig",
+    "meaning": "책임 없는, 무죄의",
+    "pronunciation": "운슐디히",
+    "example": "Er ist völlig unschuldig.",
+    "example_translation": "그는 완전히 무죄입니다."
+  },
+  {
+    "day": 2,
+    "word": "die Verantwortung / -en",
+    "meaning": "책임",
+    "pronunciation": "디 프헤어안트브오어퉁 / 디 프헤어안트브오어퉁은",
+    "example": "Er übernimmt die Verantwortung.",
+    "example_translation": "그는 책임을 집니다."
+  },
+  {
+    "day": 2,
+    "word": "verantwortlich",
+    "meaning": "책임 있는",
+    "pronunciation": "프헤어안트브오어틀리히",
+    "example": "Wer ist dafür verantwortlich?",
+    "example_translation": "누가 이것에 대해 책임이 있나요?"
+  },
+  {
+    "day": 2,
+    "word": "die Rechtfertigung / -en",
+    "meaning": "정당화, 변명",
+    "pronunciation": "디 흐에히트프헤어티궁 / 디 흐에히트프헤어티궁은",
+    "example": "Das ist keine gute Rechtfertigung.",
+    "example_translation": "그것은 좋은 변명이 아니야."
+  },
+  {
+    "day": 2,
+    "word": "sich rechtfertigen",
+    "meaning": "변명하다",
+    "pronunciation": "지히 흐에히트프헤어티근",
+    "example": "Du musst dich nicht rechtfertigen.",
+    "example_translation": "변명할 필요 없어."
+  },
+  {
+    "day": 2,
+    "word": "recht",
+    "meaning": "틀림없는, 정확한, 정당한",
+    "pronunciation": "흐에히트",
+    "example": "Du hast vollkommen recht.",
+    "example_translation": "네 말이 전적으로 옳아."
+  },
+  {
+    "day": 2,
+    "word": "das Recht / -e",
+    "meaning": "법, 권리, 자격, 옳음",
+    "pronunciation": "다쓰 흐에히트 / 디 흐에히트",
+    "example": "Jeder hat das Recht auf Freiheit.",
+    "example_translation": "모두가 자유에 대한 권리가 있습니다."
+  },
+  {
+    "day": 2,
+    "word": "der Ratschlag / ¨-e",
+    "meaning": "충고",
+    "pronunciation": "데어 흐앗슐락 / 디 흐앗슐래그",
+    "example": "Danke für den guten Ratschlag.",
+    "example_translation": "좋은 충고 고마워요."
+  },
+  {
+    "day": 2,
+    "word": "die Beratung / -en",
+    "meaning": "충고, 조언",
+    "pronunciation": "디 브흐아트웅 / 디 브흐아트웅은",
+    "example": "Wir bieten professionelle Beratung an.",
+    "example_translation": "우리는 전문적인 상담을 제공합니다."
+  },
+  {
+    "day": 2,
+    "word": "raten",
+    "meaning": "충고하다, 조언하다, 추측하다",
+    "pronunciation": "흐아트흔",
+    "example": "Was raten Sie mir zu tun?",
+    "example_translation": "제가 무엇을 하길 권하시나요?"
+  },
+  {
+    "day": 2,
+    "word": "die Ermahnung / -en",
+    "meaning": "경고, 주의",
+    "pronunciation": "디 에어마눙 / 디 에어마눙은",
+    "example": "Die Ermahnung war sehr ernst.",
+    "example_translation": "그 훈계는 매우 진지했습니다."
+  },
+  {
+    "day": 2,
+    "word": "ermahnen",
+    "meaning": "주의를 주다, 경고하다, 충고하다",
+    "pronunciation": "에어마는",
+    "example": "Der Lehrer ermahnte die Schüler zur Ruhe.",
+    "example_translation": "선생님은 학생들에게 조용히 하라고 주의를 주었습니다."
   }
 ]
 }
