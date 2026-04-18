@@ -200,7 +200,9 @@ function initFlipTouch() {
     }
   });
 
-  overlay.addEventListener('click', () => {
+  // click은 모바일 터치 후 합성 이벤트 방지용으로만 사용 (데스크톱은 pointerEnd에서 처리)
+  overlay.addEventListener('click', e => {
+    if (e.pointerType !== 'touch' && e.pointerType !== '') return;
     if (Date.now() - lastTouchFlip > 300) flipCard();
   });
 }
@@ -263,6 +265,7 @@ function initSwipeGesture() {
 
   stage.addEventListener('pointerdown', e => {
     if (e.target.closest('button')) return;
+    if (e.pointerType === 'touch') return; // touch는 initFlipTouch에서 처리
     sx = e.clientX; sy = e.clientY; drag = true;
     stage.setPointerCapture(e.pointerId);
   });
@@ -288,7 +291,11 @@ function initSwipeGesture() {
     fc.style.transform  = '';
     document.getElementById('ov-know').style.opacity = 0;
     document.getElementById('ov-dont').style.opacity = 0;
-    if (Math.abs(dx) > Math.abs(dy) * 1.4 && Math.abs(dx) > 60) judgeCard(dx > 0);
+    if (Math.abs(dx) > Math.abs(dy) * 1.4 && Math.abs(dx) > 60) {
+      judgeCard(dx > 0);
+    } else if (Math.abs(dx) < 10 && Math.abs(dy) < 10) {
+      flipCard(); // 탭(클릭) → 카드 뒤집기
+    }
   }
 
   stage.addEventListener('pointerup',     pointerEnd);
