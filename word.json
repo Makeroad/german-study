@@ -999,6 +999,854 @@
     "pronunciation": "에어마는",
     "example": "Der Lehrer ermahnte die Schüler zur Ruhe.",
     "example_translation": "선생님은 학생들에게 조용히 하라고 주의를 주었습니다."
+  },
+  {
+    "day": 3,
+    "word": "der Körper / -",
+    "meaning": "신체, 몸",
+    "pronunciation": "데어 퀴어퍼 / 디 퀴어퍼",
+    "example": "Ein gesunder Geist in einem gesunden Körper.",
+    "example_translation": "건강한 신체에 건강한 정신이 깃든다."
+  },
+  {
+    "day": 3,
+    "word": "der Körperteil / -e",
+    "meaning": "신체의 부분",
+    "pronunciation": "데어 퀴어퍼타일 / 디 퀴어퍼타일르",
+    "example": "Welcher Körperteil schmerzt am meisten?",
+    "example_translation": "어떤 신체 부위가 가장 아픈가요?"
+  },
+  {
+    "day": 3,
+    "word": "der Oberkörper / -",
+    "meaning": "상체",
+    "pronunciation": "데어 오버퀴어퍼 / 디 오버퀴어퍼",
+    "example": "Er hat einen muskulösen Oberkörper.",
+    "example_translation": "그는 근육질의 상체를 가졌다."
+  },
+  {
+    "day": 3,
+    "word": "der Unterkörper / -",
+    "meaning": "하체",
+    "pronunciation": "데어 운터퀴어퍼 / 디 운터퀴어퍼",
+    "example": "Übungen für den Unterkörper sind wichtig.",
+    "example_translation": "하체 운동은 중요합니다."
+  },
+  {
+    "day": 3,
+    "word": "der Kopf / ¨-e",
+    "meaning": "머리",
+    "pronunciation": "데어 퀖흐 / 디 퀖프흐",
+    "example": "Mein Kopf tut heute schrecklich weh.",
+    "example_translation": "오늘 머리가 너무 아파요."
+  },
+  {
+    "day": 3,
+    "word": "das Gesicht / -er",
+    "meaning": "얼굴",
+    "pronunciation": "다쓰 그지히트 / 디 그지히터",
+    "example": "Wasche dir zuerst das Gesicht.",
+    "example_translation": "먼저 세수부터 하렴."
+  },
+  {
+    "day": 3,
+    "word": "das Auge / -n",
+    "meaning": "눈",
+    "pronunciation": "다쓰 아우그 / 디 아우근",
+    "example": "Er hat blaue Augen.",
+    "example_translation": "그의 눈은 파란색이에요."
+  },
+  {
+    "day": 3,
+    "word": "die Augenbraue / -n",
+    "meaning": "눈썹",
+    "pronunciation": "디 아우근브흐아우으 / 디 아우근브흐아우은",
+    "example": "Sie hat sehr dichte Augenbrauen.",
+    "example_translation": "그녀는 눈썹이 아주 짙다."
+  },
+  {
+    "day": 3,
+    "word": "das Ohr / -en",
+    "meaning": "귀",
+    "pronunciation": "다쓰 오어 / 디 오어흔",
+    "example": "Ich habe Schmerzen im rechten Ohr.",
+    "example_translation": "오른쪽 귀가 아파요."
+  },
+  {
+    "day": 3,
+    "word": "die Nase / -n",
+    "meaning": "코",
+    "pronunciation": "디 나즈 / 디 나즌",
+    "example": "Meine Nase läuft ständig.",
+    "example_translation": "콧물이 계속 나와요."
+  },
+  {
+    "day": 3,
+    "word": "der Mund / ¨-er",
+    "meaning": "입",
+    "pronunciation": "데어 문트 / 디 뮌더",
+    "example": "Mach bitte den Mund weit auf.",
+    "example_translation": "입을 크게 벌려 주세요."
+  },
+  {
+    "day": 3,
+    "word": "die Lippe / -n",
+    "meaning": "입술",
+    "pronunciation": "디 립프 / 디 립픈",
+    "example": "Meine Lippen sind im Winter oft trocken.",
+    "example_translation": "겨울에는 입술이 자주 터요."
+  },
+  {
+    "day": 3,
+    "word": "der Zahn / ¨-e",
+    "meaning": "치아",
+    "pronunciation": "데어 짠 / 디 째느",
+    "example": "Ich muss mir die Zähne putzen.",
+    "example_translation": "양치질을 해야 해요."
+  },
+  {
+    "day": 3,
+    "word": "die Zunge / -n",
+    "meaning": "혀",
+    "pronunciation": "디 뚱으 / 디 뚱은",
+    "example": "Streck mal die Zunge raus.",
+    "example_translation": "혀를 한번 내밀어 봐."
+  },
+  {
+    "day": 3,
+    "word": "das Haar / -e",
+    "meaning": "머리카락",
+    "pronunciation": "다쓰 하어 / 디 하어흐",
+    "example": "Sie hat lange, schwarze Haare.",
+    "example_translation": "그녀는 길고 검은 머리카락을 가졌다."
+  },
+  {
+    "day": 3,
+    "word": "der Bart / ¨-e",
+    "meaning": "수염",
+    "pronunciation": "데어 발트 / 디 배어트",
+    "example": "Er lässt sich einen Bart wachsen.",
+    "example_translation": "그는 수염을 기르고 있다."
+  },
+  {
+    "day": 3,
+    "word": "die Stirn / -en",
+    "meaning": "이마",
+    "pronunciation": "디 슈티언 / 디 슈티어느",
+    "example": "Deine Stirn ist ganz heiß.",
+    "example_translation": "이마가 아주 뜨겁구나."
+  },
+  {
+    "day": 3,
+    "word": "die Backe / -n",
+    "meaning": "볼, 뺨",
+    "pronunciation": "디 박크 / 디 박큰",
+    "example": "Er küsste sie auf die Backe.",
+    "example_translation": "그는 그녀의 볼에 입을 맞췄다."
+  },
+  {
+    "day": 3,
+    "word": "die Wange / -n",
+    "meaning": "볼, 뺨",
+    "pronunciation": "디 브앙으 / 디 브앙은",
+    "example": "Ihre Wangen sind rot vor Kälte.",
+    "example_translation": "그녀의 뺨은 추위 때문에 빨갛다."
+  },
+  {
+    "day": 3,
+    "word": "das Kinn / -e",
+    "meaning": "턱",
+    "pronunciation": "다쓰 킨 / 디 킨느",
+    "example": "Er hat ein spitzes Kinn.",
+    "example_translation": "그는 뾰족한 턱을 가졌다."
+  },
+  {
+    "day": 3,
+    "word": "der Hals / ¨-e",
+    "meaning": "목",
+    "pronunciation": "데어 할쓰 / 디 핼쓰",
+    "example": "Ich habe seit gestern Halsschmerzen.",
+    "example_translation": "어제부터 목이 아파요."
+  },
+  {
+    "day": 3,
+    "word": "der Nacken / -",
+    "meaning": "뒷목, 목덜미",
+    "pronunciation": "데어 낙큰 / 디 낙큰",
+    "example": "Mein Nacken ist total verspannt.",
+    "example_translation": "뒷목이 완전히 뻐근해요."
+  },
+  {
+    "day": 3,
+    "word": "der Arm / -e",
+    "meaning": "팔",
+    "pronunciation": "데어 암 / 디 아므",
+    "example": "Ich habe mir den rechten Arm gebrochen.",
+    "example_translation": "오른쪽 팔이 부러졌어요."
+  },
+  {
+    "day": 3,
+    "word": "der Oberarm / -e",
+    "meaning": "상박, 위쪽 팔",
+    "pronunciation": "데어 오버암 / 디 오버아므",
+    "example": "Er hat kräftige Oberarme.",
+    "example_translation": "그는 팔뚝이 굵다."
+  },
+  {
+    "day": 3,
+    "word": "der Unterarm / -e",
+    "meaning": "하박, 아래쪽 팔",
+    "pronunciation": "데어 운터암 / 디 운터아므",
+    "example": "Der Unterarm ist tätowiert.",
+    "example_translation": "아래팔에 문신이 있다."
+  },
+  {
+    "day": 3,
+    "word": "der Ellbogen / -",
+    "meaning": "팔꿈치",
+    "pronunciation": "데어 엘보근 / 디 엘보근",
+    "example": "Ich habe mich am Ellbogen gestoßen.",
+    "example_translation": "팔꿈치를 부딪쳤어요."
+  },
+  {
+    "day": 3,
+    "word": "das Bein / -e",
+    "meaning": "다리",
+    "pronunciation": "다쓰 바인 / 디 바이느",
+    "example": "Meine kleine Schwester hat lange Beine.",
+    "example_translation": "제 여동생은 다리가 길어요."
+  },
+  {
+    "day": 3,
+    "word": "die Schulter / -n",
+    "meaning": "어깨",
+    "pronunciation": "디 슐터 / 디 슐턴",
+    "example": "Meine Schultern sind sehr steif.",
+    "example_translation": "어깨가 아주 결려요."
+  },
+  {
+    "day": 3,
+    "word": "der Rücken / -",
+    "meaning": "등",
+    "pronunciation": "데어 흐윅큰 / 디 흐윅큰",
+    "example": "Er liegt auf dem Rücken.",
+    "example_translation": "그는 등을 대고 누워 있다."
+  },
+  {
+    "day": 3,
+    "word": "die Hand / ¨-e",
+    "meaning": "손",
+    "pronunciation": "디 한트 / 디 핸드",
+    "example": "Wasch dir die Hände mit Seife.",
+    "example_translation": "비누로 손을 씻으렴."
+  },
+  {
+    "day": 3,
+    "word": "der Finger / -",
+    "meaning": "손가락",
+    "pronunciation": "데어 프힝어 / 디 프힝어",
+    "example": "Ich habe mir in den Finger geschnitten.",
+    "example_translation": "손가락을 베었어요."
+  },
+  {
+    "day": 3,
+    "word": "der Nagel / ¨-",
+    "meaning": "손톱",
+    "pronunciation": "데어 나글 / 디 내글",
+    "example": "Du solltest dir die Nägel schneiden.",
+    "example_translation": "손톱을 깎아야겠구나."
+  },
+  {
+    "day": 3,
+    "word": "die Brust / ¨-e",
+    "meaning": "가슴",
+    "pronunciation": "디 브흐우스 트 / 디 브흐위스트",
+    "example": "Er hat Schmerzen in der Brust.",
+    "example_translation": "그는 가슴에 통증을 느끼고 있다."
+  },
+  {
+    "day": 3,
+    "word": "der Bauch / ¨-e",
+    "meaning": "배",
+    "pronunciation": "데어 바우흐 / 디 보이히으",
+    "example": "Ich habe zu viel gegessen, mein Bauch ist voll.",
+    "example_translation": "너무 많이 먹어서 배가 불러요."
+  },
+  {
+    "day": 3,
+    "word": "der Hintern / -",
+    "meaning": "엉덩이",
+    "pronunciation": "데어 힌턴 / 디 힌턴",
+    "example": "Er ist auf den Hintern gefallen.",
+    "example_translation": "그는 엉덩방아를 찧었다."
+  },
+  {
+    "day": 3,
+    "word": "die Hüfte / -n",
+    "meaning": "엉덩이; 허리",
+    "pronunciation": "디 휘프흐트 / 디 휘프흐튼",
+    "example": "Sie hat schmale Hüften.",
+    "example_translation": "그녀는 골반이 좁다."
+  },
+  {
+    "day": 3,
+    "word": "der Oberschenkel / -",
+    "meaning": "허벅지",
+    "pronunciation": "데어 오버슈엥클 / 디 오버슈엥클",
+    "example": "Meine Oberschenkel brennen vom Laufen.",
+    "example_translation": "달리기를 했더니 허벅지가 당겨요."
+  },
+  {
+    "day": 3,
+    "word": "das Knie / -",
+    "meaning": "무릎",
+    "pronunciation": "다쓰 크니 / 디 크니",
+    "example": "Ich bin aufs Knie gefallen.",
+    "example_translation": "무릎을 꿇고 넘어졌다."
+  },
+  {
+    "day": 3,
+    "word": "der Unterschenkel / -",
+    "meaning": "종아리",
+    "pronunciation": "데어 운터슈엥클 / 디 운터슈엥클",
+    "example": "Er hat eine Verletzung am Unterschenkel.",
+    "example_translation": "그는 종아리에 부상이 있다."
+  },
+  {
+    "day": 3,
+    "word": "der Fuß / ¨-e",
+    "meaning": "발",
+    "pronunciation": "데어 프후쓰 / 디 프휘쓰",
+    "example": "Meine Füße tun nach dem Wandern weh.",
+    "example_translation": "등산을 했더니 발이 아파요."
+  },
+  {
+    "day": 3,
+    "word": "der Zeh / -n",
+    "meaning": "발가락",
+    "pronunciation": "데어 체 / 디 체흔",
+    "example": "Ich habe mir den kleinen Zeh gestoßen.",
+    "example_translation": "새끼발가락을 부딪쳤어요."
+  },
+  {
+    "day": 3,
+    "word": "der Zehennagel / ¨-",
+    "meaning": "발톱",
+    "pronunciation": "데어 체흔나글 / 디 체흔내글",
+    "example": "Meine Zehennägel müssen geschnitten werden.",
+    "example_translation": "발톱을 깎아야 해요."
+  },
+  {
+    "day": 3,
+    "word": "die Ferse / -n",
+    "meaning": "발꿈치",
+    "pronunciation": "디 프헤어즈 / 디 프헤어즌",
+    "example": "Die neuen Schuhe drücken an der Ferse.",
+    "example_translation": "새 신발의 뒤꿈치가 꽉 껴요."
+  },
+  {
+    "day": 3,
+    "word": "das Organ / -e",
+    "meaning": "기관",
+    "pronunciation": "다쓰 오어간 / 디 오어가느",
+    "example": "Die Haut ist das größte Organ des Körpers.",
+    "example_translation": "피부는 우리 몸에서 가장 큰 기관이다."
+  },
+  {
+    "day": 3,
+    "word": "das Gehirn / -e",
+    "meaning": "뇌",
+    "pronunciation": "다쓰 그히언 / 디 그히어느",
+    "example": "Das Gehirn braucht viel Sauerstoff.",
+    "example_translation": "뇌는 많은 산소를 필요로 한다."
+  },
+  {
+    "day": 3,
+    "word": "das Herz / -en",
+    "meaning": "심장",
+    "pronunciation": "다쓰 헤어쯔 / 디 헤어뜬",
+    "example": "Mein Herz schlägt schnell.",
+    "example_translation": "심장이 빨리 뛰어요."
+  },
+  {
+    "day": 3,
+    "word": "die Lunge / -n",
+    "meaning": "폐",
+    "pronunciation": "디 룽으 / 디 룽은",
+    "example": "Rauchen schadet der Lunge.",
+    "example_translation": "흡연은 폐에 해롭다."
+  },
+  {
+    "day": 3,
+    "word": "der Magen / ¨",
+    "meaning": "위",
+    "pronunciation": "데어 마근 / 디 매근",
+    "example": "Ich habe heute Magenschmerzen.",
+    "example_translation": "오늘 위가 아파요."
+  },
+  {
+    "day": 3,
+    "word": "das Blut / kein Pl.",
+    "meaning": "피",
+    "pronunciation": "다쓰 블루트",
+    "example": "Sie kann kein Blut sehen.",
+    "example_translation": "그녀는 피를 보지 못한다."
+  },
+  {
+    "day": 3,
+    "word": "bluten",
+    "meaning": "피가 나다, 출혈하다",
+    "pronunciation": "블루튼",
+    "example": "Deine Nase blutet.",
+    "example_translation": "코에서 피가 나."
+  },
+  {
+    "day": 3,
+    "word": "die Haut / ¨-e",
+    "meaning": "피부",
+    "pronunciation": "디 하울 / 디 호이트",
+    "example": "Sie haben etwas fettige Haut.",
+    "example_translation": "당신은 지성 피부를 가졌군요."
+  },
+  {
+    "day": 3,
+    "word": "anschauen",
+    "meaning": "바라보다, 응시하다",
+    "pronunciation": "안슈아우은",
+    "example": "Schau mich bitte an, wenn ich mit dir rede.",
+    "example_translation": "말할 때는 나를 좀 쳐다보렴."
+  },
+  {
+    "day": 3,
+    "word": "der Eindruck / ¨-e",
+    "meaning": "인상",
+    "pronunciation": "데어 아인드흐욱 / 디 아인드흐위크",
+    "example": "Er macht einen netten Eindruck.",
+    "example_translation": "그는 좋은 인상을 준다."
+  },
+  {
+    "day": 3,
+    "word": "der Typ / -en",
+    "meaning": "유형, 타입",
+    "pronunciation": "데어 튑 / 디 튀픈",
+    "example": "Er ist ein sportlicher Typ.",
+    "example_translation": "그는 스포츠형 타입이다."
+  },
+  {
+    "day": 3,
+    "word": "das Aussehen / kein Pl.",
+    "meaning": "외모",
+    "pronunciation": "다쓰 아우쓰제흔",
+    "example": "Das Aussehen ist nicht alles.",
+    "example_translation": "외모가 전부는 아니에요."
+  },
+  {
+    "day": 3,
+    "word": "aussehen",
+    "meaning": "~같이 보이다",
+    "pronunciation": "아우쓰제흔",
+    "example": "Du siehst heute sehr müde aus.",
+    "example_translation": "너 오늘 정말 피곤해 보인다."
+  },
+  {
+    "day": 3,
+    "word": "stark",
+    "meaning": "강한",
+    "pronunciation": "슈탁",
+    "example": "Er ist ein starker Mann.",
+    "example_translation": "그는 강인한 남자다."
+  },
+  {
+    "day": 3,
+    "word": "schön",
+    "meaning": "아름다운, 예쁜",
+    "pronunciation": "슈원",
+    "example": "Du hast wirklich schöne Haare.",
+    "example_translation": "너 머리카락이 정말 예쁘구나."
+  },
+  {
+    "day": 3,
+    "word": "schick",
+    "meaning": "멋진, 세련된",
+    "pronunciation": "슈익",
+    "example": "Du siehst heute sehr schick aus.",
+    "example_translation": "너 오늘 정말 멋져 보여."
+  },
+  {
+    "day": 3,
+    "word": "die Schönheit / -en",
+    "meaning": "아름다움, 미모",
+    "pronunciation": "디 슈원하이틀 / 디 슈원하이튼",
+    "example": "Sie ist eine wahre Schönheit.",
+    "example_translation": "그녀는 진정한 미인이다."
+  },
+  {
+    "day": 3,
+    "word": "lang",
+    "meaning": "긴",
+    "pronunciation": "랑",
+    "example": "Sie hat lange Beine.",
+    "example_translation": "그녀는 다리가 길다."
+  },
+  {
+    "day": 3,
+    "word": "kurz",
+    "meaning": "짧은",
+    "pronunciation": "쿠어츠",
+    "example": "Ich möchte meine Haare kurz schneiden.",
+    "example_translation": "머리를 짧게 자르고 싶어요."
+  },
+  {
+    "day": 3,
+    "word": "färben",
+    "meaning": "염색하다, 물들이다",
+    "pronunciation": "프헤어븐",
+    "example": "Sie hat sich die Haare braun gefärbt.",
+    "example_translation": "그녀는 머리를 갈색으로 염색했다."
+  },
+  {
+    "day": 3,
+    "word": "die Farbe / -n",
+    "meaning": "색, 색깔",
+    "pronunciation": "디 프하브 / 디 프하븐",
+    "example": "Was ist deine Lieblingsfarbe?",
+    "example_translation": "가장 좋아하는 색이 뭐니?"
+  },
+  {
+    "day": 3,
+    "word": "hell",
+    "meaning": "밝은",
+    "pronunciation": "헬",
+    "example": "Sie trägt eine helle Hose.",
+    "example_translation": "그녀는 밝은색 바지를 입고 있다."
+  },
+  {
+    "day": 3,
+    "word": "dunkel",
+    "meaning": "어두운",
+    "pronunciation": "둥클",
+    "example": "Im Winter wird es früh dunkel.",
+    "example_translation": "겨울에는 일찍 어두워진다."
+  },
+  {
+    "day": 3,
+    "word": "blond",
+    "meaning": "금발의",
+    "pronunciation": "블론트",
+    "example": "Er hat blonde Haare.",
+    "example_translation": "그는 금발 머리를 가졌다."
+  },
+  {
+    "day": 3,
+    "word": "glatt",
+    "meaning": "매끄러운; 순조로운",
+    "pronunciation": "글랏",
+    "example": "Sie hat glatte Haare.",
+    "example_translation": "그녀는 생머리다."
+  },
+  {
+    "day": 3,
+    "word": "lockig",
+    "meaning": "곱슬곱슬한",
+    "pronunciation": "록키히",
+    "example": "Er hat von Natur aus lockige Haare.",
+    "example_translation": "그는 선천적으로 곱슬머리이다."
+  },
+  {
+    "day": 3,
+    "word": "die Größe / -n",
+    "meaning": "신장, 키; 사이즈, 치수",
+    "pronunciation": "디 그흐외쓰 / 디 그흐외쓴",
+    "example": "Welche Größe haben Sie?",
+    "example_translation": "치수가 어떻게 되시나요?"
+  },
+  {
+    "day": 3,
+    "word": "groß",
+    "meaning": "큰; 성장한",
+    "pronunciation": "그호오쓰",
+    "example": "Wie groß bist du?",
+    "example_translation": "키가 몇이니?"
+  },
+  {
+    "day": 3,
+    "word": "klein",
+    "meaning": "작은; 어린",
+    "pronunciation": "클라인",
+    "example": "Das Kind ist noch sehr klein.",
+    "example_translation": "그 아이는 아직 아주 작다."
+  },
+  {
+    "day": 3,
+    "word": "mindestens",
+    "meaning": "적어도, 최소한",
+    "pronunciation": "민드스튼쓰",
+    "example": "Ich muss mindestens acht Stunden schlafen.",
+    "example_translation": "적어도 8시간은 자야 해요."
+  },
+  {
+    "day": 3,
+    "word": "etwa",
+    "meaning": "대략, 약",
+    "pronunciation": "엘브아",
+    "example": "Die Fahrt dauert etwa zwei Stunden.",
+    "example_translation": "차로 약 2시간 걸립니다."
+  },
+  {
+    "day": 3,
+    "word": "höchstens",
+    "meaning": "기껏해야, 고작해야",
+    "pronunciation": "회흐스튼쓰",
+    "example": "Ich habe höchstens zehn Euro.",
+    "example_translation": "난 기껏해야 10유로밖에 없어."
+  },
+  {
+    "day": 3,
+    "word": "wachsen",
+    "meaning": "성장하다",
+    "pronunciation": "브아흐즌",
+    "example": "Kinder wachsen sehr schnell.",
+    "example_translation": "아이들은 정말 빨리 자란다."
+  },
+  {
+    "day": 3,
+    "word": "das Gewicht / -e",
+    "meaning": "무게, 체중",
+    "pronunciation": "다쓰 그브이히트 / 디 그브이히트",
+    "example": "Ich kontrolliere mein Gewicht regelmäßig.",
+    "example_translation": "나는 정기적으로 체중을 체크한다."
+  },
+  {
+    "day": 3,
+    "word": "leicht",
+    "meaning": "가벼운",
+    "pronunciation": "라이힐",
+    "example": "Diese Tasche ist sehr leicht.",
+    "example_translation": "이 가방은 매우 가볍다."
+  },
+  {
+    "day": 3,
+    "word": "schlank",
+    "meaning": "날씬한",
+    "pronunciation": "슐랑크",
+    "example": "Sie hat eine schlanke Figur.",
+    "example_translation": "그녀는 날씬한 몸매를 가졌다."
+  },
+  {
+    "day": 3,
+    "word": "dünn",
+    "meaning": "마른",
+    "pronunciation": "된",
+    "example": "Er ist sehr dünn geworden.",
+    "example_translation": "그는 아주 말랐어."
+  },
+  {
+    "day": 3,
+    "word": "mager",
+    "meaning": "영양분이 적은",
+    "pronunciation": "마거",
+    "example": "Das Fleisch ist sehr mager.",
+    "example_translation": "그 고기는 살코기가 아주 많다(기름기가 없다)."
+  },
+  {
+    "day": 3,
+    "word": "schwer",
+    "meaning": "무거운",
+    "pronunciation": "슈브에어",
+    "example": "Der Koffer ist zu schwer für mich.",
+    "example_translation": "이 트렁크는 내게 너무 무거워요."
+  },
+  {
+    "day": 3,
+    "word": "dick",
+    "meaning": "뚱뚱한; 두꺼운; 굵은; 부은",
+    "pronunciation": "딕",
+    "example": "Zieh dir eine dicke Jacke an.",
+    "example_translation": "두꺼운 재킷을 입으렴."
+  },
+  {
+    "day": 3,
+    "word": "die Figur / -en",
+    "meaning": "몸매, 체형",
+    "pronunciation": "디 프히구어 / 디 프히구어흔",
+    "example": "Sie hat eine gute Figur.",
+    "example_translation": "그녀는 몸매가 좋다."
+  },
+  {
+    "day": 3,
+    "word": "die Diät / -en",
+    "meaning": "다이어트",
+    "pronunciation": "디 디앨 / 디 디애튼",
+    "example": "Ich mache gerade eine Diät.",
+    "example_translation": "지금 다이어트 중이에요."
+  },
+  {
+    "day": 3,
+    "word": "abnehmen",
+    "meaning": "체중이 줄다",
+    "pronunciation": "압네문",
+    "example": "Ich treibe Sport, um abzunehmen.",
+    "example_translation": "저는 체중을 줄이기 위해 운동을 해요."
+  },
+  {
+    "day": 3,
+    "word": "zunehmen",
+    "meaning": "체중이 늘다",
+    "pronunciation": "쭈네문",
+    "example": "Ich habe über den Urlaub zugenommen.",
+    "example_translation": "휴가 동안 살이 좀 쪘어요."
+  },
+  {
+    "day": 3,
+    "word": "regelmäßig",
+    "meaning": "언제나; 규칙적인; 습관적으로",
+    "pronunciation": "흐에글매씨히",
+    "example": "Ich gehe regelmäßig ins Fitnessstudio.",
+    "example_translation": "나는 규칙적으로 헬스장에 간다."
+  },
+  {
+    "day": 3,
+    "word": "hübsch",
+    "meaning": "예쁜, 귀여운; 호감을 주는",
+    "pronunciation": "훱슈",
+    "example": "Du siehst heute sehr hübsch aus.",
+    "example_translation": "너 오늘 참 예뻐 보인다."
+  },
+  {
+    "day": 3,
+    "word": "süß",
+    "meaning": "귀여운; 매력있는",
+    "pronunciation": "쥐쓰",
+    "example": "Das Baby ist so süß!",
+    "example_translation": "아기가 정말 귀여워요!"
+  },
+  {
+    "day": 3,
+    "word": "hässlich",
+    "meaning": "못생긴, 추한",
+    "pronunciation": "해쓸리히",
+    "example": "Das ist ein hässliches Gebäude.",
+    "example_translation": "그것은 못생긴(볼품없는) 건물이다."
+  },
+  {
+    "day": 3,
+    "word": "merkwürdig",
+    "meaning": "이상한, 기묘한",
+    "pronunciation": "메억브어디히",
+    "example": "Er verhält sich heute merkwürdig.",
+    "example_translation": "그는 오늘 이상하게 행동한다."
+  },
+  {
+    "day": 3,
+    "word": "gepflegt",
+    "meaning": "(말투, 차림새 따위가) 세련된, 점잖은",
+    "pronunciation": "그프흘레클",
+    "example": "Er hat ein sehr gepflegtes Aussehen.",
+    "example_translation": "그는 외모가 매우 깔끔하다."
+  },
+  {
+    "day": 3,
+    "word": "sportlich",
+    "meaning": "스포츠로 단련된",
+    "pronunciation": "슈포어틀리히",
+    "example": "Sie ist sehr sportlich und spielt Tennis.",
+    "example_translation": "그녀는 매우 활동적이며 테니스를 친다."
+  },
+  {
+    "day": 3,
+    "word": "jugendlich",
+    "meaning": "젊은; 발랄한",
+    "pronunciation": "유근틀리히",
+    "example": "Sie hat ein jugendliches Lächeln.",
+    "example_translation": "그녀는 젊고 생기 넘치는 미소를 가졌다."
+  },
+  {
+    "day": 3,
+    "word": "blass",
+    "meaning": "창백한",
+    "pronunciation": "블라쓰",
+    "example": "Du siehst blass aus. Geht es dir gut?",
+    "example_translation": "너 창백해 보여. 괜찮니?"
+  },
+  {
+    "day": 3,
+    "word": "lachen",
+    "meaning": "웃다",
+    "pronunciation": "라흔",
+    "example": "Lachen ist gesund.",
+    "example_translation": "웃음은 건강에 좋다."
+  },
+  {
+    "day": 3,
+    "word": "lächeln",
+    "meaning": "미소 짓다",
+    "pronunciation": "래히을ㄴ",
+    "example": "Sie lächelte mich freundlich an.",
+    "example_translation": "그녀는 나를 향해 친절하게 미소 지었다."
+  },
+  {
+    "day": 3,
+    "word": "stolz",
+    "meaning": "자랑스런, 당당한",
+    "pronunciation": "슈톨츠",
+    "example": "Ich bin stolz auf dich.",
+    "example_translation": "난 네가 자랑스러워."
+  },
+  {
+    "day": 3,
+    "word": "rund",
+    "meaning": "둥근; 포동포동한",
+    "pronunciation": "흐운트",
+    "example": "Der Tisch ist rund.",
+    "example_translation": "테이블이 둥글다."
+  },
+  {
+    "day": 3,
+    "word": "rundlich",
+    "meaning": "통통한, 포동포동한; 둥그스름한",
+    "pronunciation": "흐운틀리히",
+    "example": "Das Kind hat ein rundliches Gesicht.",
+    "example_translation": "아이는 둥글둥글한 얼굴을 가졌다."
+  },
+  {
+    "day": 3,
+    "word": "oval",
+    "meaning": "계란형의, 타원형의",
+    "pronunciation": "오브알",
+    "example": "Sie hat ein ovales Gesicht.",
+    "example_translation": "그녀는 갸름한 달걀형 얼굴이다."
+  },
+  {
+    "day": 3,
+    "word": "spitz",
+    "meaning": "뾰족한, 날카로운; 매서운",
+    "pronunciation": "슈필츠",
+    "example": "Vorsicht, der Bleistift ist sehr spitz.",
+    "example_translation": "조심해, 연필이 아주 뾰족해."
+  },
+  {
+    "day": 3,
+    "word": "schmal",
+    "meaning": "(폭이) 좁은; 마른",
+    "pronunciation": "슈말",
+    "example": "Die Straße ist hier sehr schmal.",
+    "example_translation": "여기 길은 폭이 매우 좁다."
+  },
+  {
+    "day": 3,
+    "word": "breit",
+    "meaning": "(폭이) 넓은",
+    "pronunciation": "브흐아일",
+    "example": "Das Bett ist zwei Meter breit.",
+    "example_translation": "침대 가로 폭이 2미터이다."
+  },
+  {
+    "day": 3,
+    "word": "gefallen",
+    "meaning": "마음에 들다",
+    "pronunciation": "그프할른",
+    "example": "Wie gefällt dir mein neues Kleid?",
+    "example_translation": "내 새 원피스 어떠니(마음에 드니)?"
   }
 ]
 }

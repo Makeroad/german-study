@@ -539,6 +539,300 @@
           "korean": "독일 / 가지고 있다 / 역시 / 많은 산들을. 많은 / 그중에 / ~이다 / ~위에 / 알프스."
         }
       ]
+    },
+    {
+      "id": "2-1",
+      "title": "커피 한잔 할래?",
+      "lines": [
+        {
+          "speaker": "A",
+          "german": "Magst du warmen Kaffee?",
+          "pronunciation": "막스트 / 두 / 바v아맨 / 카페f에?",
+          "korean": "원하다 / 너 / 따뜻한 / 커피를?"
+        },
+        {
+          "speaker": "B",
+          "german": "Ja, bitte.",
+          "pronunciation": "야, 빌테.",
+          "korean": "응, 부탁해."
+        },
+        {
+          "speaker": "A",
+          "german": "Magst du Zucker im Kaffee?",
+          "pronunciation": "막스트 / 두 / 쭈커 / 임 / 카페f에?",
+          "korean": "원하다 / 너 / 설탕을 / ~안에 / 커피?"
+        },
+        {
+          "speaker": "B",
+          "german": "Ja, zwei Löffel bitte.",
+          "pronunciation": "야, 쯔바v이 / 올뢰펠f / 빌테.",
+          "korean": "응, 2 / 숟가락들 / 부탁해."
+        },
+        {
+          "speaker": "A",
+          "german": "Magst du ein bisschen Kuchen? Ich habe einen süßen Kuchen.",
+          "pronunciation": "막스트 / 두 / 아인 / 비쓰히엔 / 쿠헨? 이히 / 하베 / 아이낸 / 쓔쎤 / 쿠헨.",
+          "korean": "원하다 / 너 / 하나의 / 조금 / 케이크를? 나 / 가지고 있다 / 하나의 / 달콤한 / 케이크를."
+        },
+        {
+          "speaker": "B",
+          "german": "Nein danke, der Kaffee ist schon süß genug.",
+          "pronunciation": "나인 / 당케, 데어 카페f에 / 이스트 / 숀 / 쓔쓰 / 게눅.",
+          "korean": "아니 / 고마워, 그 커피는 / ~이다 / 벌써 / 단 / 충분히."
+        },
+        {
+          "speaker": "A",
+          "german": "Okay. Trinken wir draußen. Die Aussicht ist wunderbar.",
+          "pronunciation": "오케이. 트링켄 / 비v어 / 드라v우쎈. 디 아우스지히트 / 이스트 / 분더바.",
+          "korean": "응. 마시다 / 우리 / 밖에. 그 경치 / ~이다 / 훌륭한."
+        },
+        {
+          "speaker": "B",
+          "german": "Machen wir das.",
+          "pronunciation": "마헨 / 비v어 / 다스.",
+          "korean": "하다 / 우리 / 그것."
+        }
+      ]
+    },
+    {
+      "id": "2-2",
+      "title": "너는 무엇을 가졌니?",
+      "lines": [
+        {
+          "speaker": "A",
+          "german": "Ich habe einen Stift, ein Buch und ein Heft.",
+          "pronunciation": "이히 하베 / 아이낸 슈티프f트, 아인 부흐 / 운트 / 아인 헤프f트.",
+          "korean": "나는 가지고 있다 / 하나의 볼펜을, 하나의 책을 / 그리고 / 하나의 공책을."
+        },
+        {
+          "speaker": "B",
+          "german": "Das war es?",
+          "pronunciation": "다스 / 바v아 / 에스?",
+          "korean": "그것 / 이었다 / 그것?"
+        },
+        {
+          "speaker": "A",
+          "german": "Ja, ich habe nur einen Unterricht.",
+          "pronunciation": "야, 이히 하베 / 누어 / 아이낸 운터리히트.",
+          "korean": "응, 나는 가지고 있다 / 오직 / 하나의 수업."
+        },
+        {
+          "speaker": "A",
+          "german": "Was hast du im Rucksack?",
+          "pronunciation": "바v스 / 하스트 / 두 / 임 / 룩작?",
+          "korean": "무엇 / 가지고 있다 / 너 / ~안에 / 가방?"
+        },
+        {
+          "speaker": "B",
+          "german": "Ich habe eine Federtasche, ein paar Bücher, Hefte und die Deutschhausaufgabe, den Hausschlüssel und das Familienfoto.",
+          "pronunciation": "이히 하베 / 아이내 / f페더타쉐, 아인 파아 / 뷔히어 / 헤프f테 / 운트... 디 도이췰하우스아우프f가베, 덴 하우스슐뤼쎌 운트 / 다스 f파밀리엔포f토.",
+          "korean": "나는 가지고 있다 / 하나의 / 필통을, 한 쌍의 / 책들을 / 공책들 / 그리고... 그 독일어 숙제를, 그 집 열쇠를 그리고 / 그 가족사진을."
+        },
+        {
+          "speaker": "A",
+          "german": "Was hast du in der Federtasche?",
+          "pronunciation": "바v스 / 하스트 / 두 / 인 / 데어 f페더타쉐?",
+          "korean": "무엇을 / 가지고 있다 / 너 / ~안에 / 그 필통?"
+        },
+        {
+          "speaker": "B",
+          "german": "Ich habe ein paar Stifte und Bleistifte, einen Radierer, einen Markierstift und den Füllfeder meines Vaters.",
+          "pronunciation": "이히 하베 / 아인 파아 / 슈티프f테 / 운트 / 블라이슈티프f테, 아이낸 라디어러, 아이낸 마키어슈티프f트 운트 / 덴 f퓔f페더 / 마이내스 파f터스.",
+          "korean": "나는 가지고 있다 / 한 쌍의 / 볼펜들을 / 그리고 / 연필들을, 하나의 지우개를, 하나의 형광펜을 그리고 / 그 만년필을 / 나의 아버지의."
+        },
+        {
+          "speaker": "A",
+          "german": "Was hast du im Rucksack?",
+          "pronunciation": "바v스 / 하스트 / 두 / 임 / 룩작?",
+          "korean": "무엇을 / 가지고 있다 / 너 / ~안에 / 가방?"
+        }
+      ]
+    },
+    {
+      "id": "2-3",
+      "title": "네, 저도 장 보고 있어요",
+      "lines": [
+        {
+          "speaker": "A",
+          "german": "Guten Tag, Herr Josef, gehen Sie einkaufen?",
+          "pronunciation": "구텐 탁, 헤어 요세f프, 게에엔 / 지 / 아인카우펜f?",
+          "korean": "좋은 날, 요세프 씨(남성이름), 가다 / 당신 / 장보다?"
+        },
+        {
+          "speaker": "B",
+          "german": "Guten Tag, Frau Müller. Ja, der Kühlschrank ist leer.",
+          "pronunciation": "구텐 탁, f프라우 뮐러. 야, 데어 퀼슈랑크 / 이스트 / 올래어.",
+          "korean": "좋은 날, 뮐러 씨(여성이름), 네, 그 냉장고는 / ~이다 / 비어있는."
+        },
+        {
+          "speaker": "A",
+          "german": "Gehen Sie auch einkaufen?",
+          "pronunciation": "게에엔 / 지 / 아우흐 / 아인카우펜f?",
+          "korean": "가다 / 당신 / 역시 / 장보다?"
+        },
+        {
+          "speaker": "B",
+          "german": "Ja, ich kaufe auch jetzt ein.",
+          "pronunciation": "야, 이히 / 카우페f / 아우흐 / 옛쯔트 / 아인.",
+          "korean": "네, 나 / 장을 보다 / 역시 / 지금 / [분리전철]"
+        },
+        {
+          "speaker": "A",
+          "german": "Was brauchen Sie?",
+          "pronunciation": "바v스 / 브라우헨 / 지?",
+          "korean": "무엇을 / 필요로 하다 / 당신?"
+        },
+        {
+          "speaker": "B",
+          "german": "Tomate, Salat, Obst und... Zucker, eine Flasche Milch und Rindfleisch.",
+          "pronunciation": "토마테, 잘라트, 옵스트 / 운트... 쭈커, 아이내 f플라쉐 / 밀히 운트 / 린트f라이쉬.",
+          "korean": "토마토, 샐러드, 과일 / 그리고... 설탕, 하나의 병 / 우유 그리고 / 소고기."
+        },
+        {
+          "speaker": "A",
+          "german": "Ich brauche Kartoffel und frisches Hühnerfleisch.",
+          "pronunciation": "이히 브라우헨 / 카토펠f 운트 / f프리쉐스 휘너f라이쉬.",
+          "korean": "나는 필요로 하다 / 감자 그리고 / 신선한 닭고기."
+        },
+        {
+          "speaker": "B",
+          "german": "Sie kochen heute Abend mit Hühnerfleisch and Kartoffeln? Ich wünsche Ihnen einen schönen Abend.",
+          "pronunciation": "지 / 코헨 / 호이테 / 아벤트 / 밑 / 휘너f라이쉬 / 운트 / 카토펠f른? 이히 빈v쉐 / 이낸 / 아이낸 쉐낸 아벤트.",
+          "korean": "당신 / 요리하다 / 오늘 / 저녁 / ~와 함께 / 닭고기 / 그리고 / 감자들? 나는 바라다 / 당신에게 / 하나의 좋은 저녁을."
+        },
+        {
+          "speaker": "A",
+          "german": "Danke, Ihnen auch!",
+          "pronunciation": "당케, 이낸 / 아우흐!",
+          "korean": "감사합니다, 당신에게 / 역시!"
+        }
+      ]
+    },
+    {
+      "id": "2-4",
+      "title": "무엇을 타고 출근하세요?",
+      "lines": [
+        {
+          "speaker": "A",
+          "german": "Fahren Sie mit dem Auto zur Arbeit?",
+          "pronunciation": "f파랜 / 지 / 밑 / 뎀 아우토 / 쭈어 / 아바이트?",
+          "korean": "타고 간다 / 당신 / ~와 함께 / 그 자동차 / ~로 / 일?"
+        },
+        {
+          "speaker": "B",
+          "german": "Nein, ich fahre nicht mit dem Auto.",
+          "pronunciation": "나인, 이히 / f파래 / 니히트 / 밑 / 뎀 아우토.",
+          "korean": "아니요, 나 / 타고 간다 / [부정] / ~와 함께 / 그 자동차."
+        },
+        {
+          "speaker": "A",
+          "german": "Haben Sie kein Auto?",
+          "pronunciation": "하벤 / 지 / 카인 / 아우토?",
+          "korean": "가지고 있다 / 당신 / [부정] / 자동차를?"
+        },
+        {
+          "speaker": "B",
+          "german": "Ich habe ein Auto, aber ich fahre mit dem Bus.",
+          "pronunciation": "이히 / 하베 / 아인 아우토, 아버 / 이히 / f파래 / 밑 / 뎀 부스.",
+          "korean": "나 / 가지고 있다 / 하나의 자동차를, 하지만 / 나 / 타고 가다 / ~와 함께 / 그 버스."
+        },
+        {
+          "speaker": "A",
+          "german": "Ist der Bus nicht unbequem?",
+          "pronunciation": "이스트 / 데어 부스 / 니히트 / 운베크벰v?",
+          "korean": "~이다 / 그 버스는 / [부정] / 불편한?"
+        },
+        {
+          "speaker": "B",
+          "german": "Nein, der Bus ist bequem.",
+          "pronunciation": "나인, 데어 부스 / 이스트 / 베크벰v.",
+          "korean": "아니요, 그 버스는 / ~이다 / 편한."
+        },
+        {
+          "speaker": "A",
+          "german": "Ich fahre oft mit der U-Bahn.",
+          "pronunciation": "이히 / f파래 / 오f프트 / 밑 / 데어 우반.",
+          "korean": "나 / 타고 가다 / 자주 / ~와 함께 / 그 지하철과."
+        },
+        {
+          "speaker": "B",
+          "german": "Ich mag die U-Bahn nicht.",
+          "pronunciation": "이히 / 막 / 디 우반 / 니히트.",
+          "korean": "나 / 좋아하다 / 그 지하철을 / [부정]"
+        },
+        {
+          "speaker": "A",
+          "german": "Warum?",
+          "pronunciation": "바v룸?",
+          "korean": "왜?"
+        },
+        {
+          "speaker": "B",
+          "german": "Zu viele Menschen fahren mit der U-Bahn. Die U-Bahn ist unbequem.",
+          "pronunciation": "쭈 / 피f일래 맨쉔 / f파랜 밑 / 데어 우반. 디 우반 / 이스트 / 운베크벰v.",
+          "korean": "너무 / 많은 사람들은 / 타고 가다 ~와 함께 / 그 지하철. 그 지하철은 / ~이다 / 불편한."
+        },
+        {
+          "speaker": "A",
+          "german": "Sie haben recht. Die U-Bahn ist manchmal sehr unbequem.",
+          "pronunciation": "지 / 하벤 / 레히트. 디 우반 / 이스트 / 만히말 / 제어 운베크벰v.",
+          "korean": "당신은 / 가지고 있다 / 옳은. 그 지하철은 / ~이다 / 가끔 / 많이 불편한."
+        }
+      ]
+    },
+    {
+      "id": "2-5",
+      "title": "독일에는 알프스가 있어요",
+      "lines": [
+        {
+          "speaker": "A",
+          "german": "Woher kommen Sie?",
+          "pronunciation": "보v헤어 / 콤맨 / 지?",
+          "korean": "어디 / 오다 / 당신?"
+        },
+        {
+          "speaker": "B",
+          "german": "Ich komme aus Deutschland. Und Sie?",
+          "pronunciation": "이히 / 콤매 / 아우스 / 도이췰란트. 운트 지?",
+          "korean": "나 / 오다 / ~에서 / 독일. 그리고 당신?"
+        },
+        {
+          "speaker": "A",
+          "german": "Ich komme aus Korea. Was für ein Land ist Deutschland?",
+          "pronunciation": "이히 / 콤매 / 아우스 / 코레아. 바v스 f휘어 아인 / 올란트 / 이스트 / 도이췰란트?",
+          "korean": "저는 / 오다 / ~에서 / 한국. 어떤 종류의 / 나라 / ~이다 / 독일?"
+        },
+        {
+          "speaker": "B",
+          "german": "Deutschland ist viel größer als Korea.",
+          "pronunciation": "도이췰란트 / 이스트 / 피f일 / 그뢰써 / 알스 / 코레아.",
+          "korean": "독일 / ~이다 / 많이 / 더 큰 / ~보다 / 한국."
+        },
+        {
+          "speaker": "A",
+          "german": "Deutschland ist sehr groß.",
+          "pronunciation": "도이췰란트 / 이스트 / 제어 그로오쓰.",
+          "korean": "독일 / ~이다 / 매우 큰."
+        },
+        {
+          "speaker": "B",
+          "german": "Ja, Deutschland ist ein großes Land. Wir haben Alpen im Süden.",
+          "pronunciation": "야, 도이췰란트 / 이스트 / 아인 그로오쓰 올란트. 비v어 / 하벤 / 알펜 / 임 / 쉬덴.",
+          "korean": "네, 독일 / ~이다 / 하나의 큰 나라. 우리 / 가지고 있다 / 알프스를 / ~안에 / 남쪽."
+        },
+        {
+          "speaker": "A",
+          "german": "Es gibt auch viele Berge in Korea. Auch in Seoul.",
+          "pronunciation": "에스 깁트 / 아우흐 / 피f일래 베어게 / 인 / 코레아. 아우흐 / 인 / 세오울.",
+          "korean": "~있다 / 역시 / 많은 산들이 / ~안에 / 한국. 역시 / ~안에 / 서울."
+        },
+        {
+          "speaker": "B",
+          "german": "Deutschland hat auch viele Berge. Viele davon sind auf Alpen.",
+          "pronunciation": "도이췰란트 / 하트 / 아우흐 / 피f일래 베어게. 피f일래 / 다폰 / 진트 / 아우f프 / 알펜.",
+          "korean": "독일 / 가지고 있다 / 역시 / 많은 산들을. 많은 / 그중에 / ~이다 / ~위에 / 알프스."
+        }
+      ]
     }
   ]
 }
